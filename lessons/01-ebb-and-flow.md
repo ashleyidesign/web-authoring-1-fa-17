@@ -43,6 +43,15 @@ Copy and paste this section into a new task list `issue` within your repo and ti
 - [ ] → [A Dao of Web Design](https://alistapart.com/article/dao)
 - [ ] → [Responsive Web Design](https://alistapart.com/article/responsive-web-design)
 
+### Creativity
+
+- [ ] → [David Lynch on Where Great Ideas Come From](https://vimeo.com/182093266) `video`
+- [ ] → [Everything is a Remix Remastered](https://vimeo.com/139094998) `video`
+- [ ] → [Malcolm Gladwell Looks At Technology Innovations](http://www.npr.org/2011/05/16/136368716/malcolm-gladwell-looks-at-technology-innovations) `audio`
+- [Creation Myth](http://www.newyorker.com/magazine/2011/05/16/creation-myth)
+
+### Semantics, Syntax, and Vocabulary
+
 - [Why You Should Say HTML Classes, CSS Class Selectors, or CSS Pseudo-Classes, but Not CSS Classes](http://tantek.com/2012/353/b1/why-html-classes-css-class-selectors)
 
 ### Meaningful Links
