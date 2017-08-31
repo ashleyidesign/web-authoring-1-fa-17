@@ -53,7 +53,7 @@ sighted and non-sighted users
 
 - Proficiency in the technology and tools for digital design, designing in the browser, and publishing for web
   - Illustrator or Sketch, maybe InDesign, but *not* Photoshop
-  - Text editor for authoring Markdown, HTML and CSS
+  - Text editor for authoring Markdown, HTML, and CSS
   - Browser developer tools for inspecting and testing
   - GitHub for development and publishing
 - Proficiency in producing both low and high fidelity comps for presentation
