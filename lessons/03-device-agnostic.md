@@ -22,3 +22,4 @@ Copy and paste this section into a new task list `issue` within your repo and ti
 ### Typography
 
 - [ ] → [Web Design Is 95% Typography](https://ia.net/topics/the-web-is-all-about-typography-period/)
+

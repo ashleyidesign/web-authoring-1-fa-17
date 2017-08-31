@@ -27,6 +27,8 @@ Copy and paste this section into a new task list `issue` within your repo and ti
 
 ### Style as an Enhancement
 
+`20 points`
+
 - [ ] Use of meaningful CSS class selector names
 - [ ] Author and apply styles for mobile first
 - [ ] Author and apply media query styles for breakpoints

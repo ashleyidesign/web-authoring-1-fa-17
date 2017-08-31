@@ -14,7 +14,7 @@ Design a modern day type specimen website, promoting a not so “modern”, but 
 
 Select a web safe font; show off its styles and weights: italic, normal, and bold; transform its cases: upper, lower, and even small-caps; change its size: 1em to 10em, smaller to larger; and even a swash such as a drop capital or an ornamental character such as an ampersand.
 
-Consider both typographic color: style, weight, size, and spacing, before foreground and background color; let the type talk first, then enhance by layering on a conversation of color to better communicate an aesthetic or emotion.
+Focus on typographic color: style, weight, size, and spacing, before reversed type, foreground and background color. Let the type talk first, then enhance by layering on accessible color to better communicate an aesthetic or emotion for color blind, low vision, and sighted users alike.
 
 ## Web Safe Fonts
 
@@ -64,3 +64,12 @@ Copy and paste this section into a new task list `issue` within your repo and ti
 
 - [ ] → [Typographically Speaking: A Conversation with Matthew Carter](https://vimeo.com/140351682) `video`
 - [Channel Verdana](https://www.microsoft.com/typography/web/fonts/verdana/)
+- [Untitled Serif](https://klim.co.nz/retail-fonts/untitled-serif/)
+
+### Color Contrast
+
+- [ ] → [What is Color Contrast?](http://a11yproject.com/posts/what-is-color-contrast/)
+- [Color Accessibility Workflows](https://alistapart.com/article/color-accessibility-workflows)
+- [ ] → [Accessible Colors](http://accessible-colors.com)
+- [Colour Contrast Analyser](https://www.paciellogroup.com/resources/contrastanalyser/)
+- [Color Safe](http://colorsafe.co)
