@@ -23,6 +23,11 @@
 - [Software](#software)
 - [Books](#books)
 
+- - -
+
+- [Author](#author)
+- [License](#license)
+
 ## Course Description
 
 Web Authoring 1 is an introductory course to authoring and publishing content for the web. Students learn to read, write, and speak HTML and CSS, as well as, study the past and present history of the web. Web Authoring 1 focuses on the basics of modern web design through a series of projects exploring type, color, image, and layout.
@@ -191,3 +196,16 @@ Pick a *free* flavor…
 
 - [HTML5 for Web Designers](https://abookapart.com/products/html5-for-web-designers) (Second Edition)
 - [Responsive Web Design](https://abookapart.com/products/responsive-web-design) (Second Edition)
+
+- - -
+
+## Author
+
+A course developed by Justin Gagne.
+
+## License
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png" /></a>
+
+This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
+
