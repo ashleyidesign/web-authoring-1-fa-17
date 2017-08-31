@@ -12,7 +12,7 @@
 
 - - -
 
-- [Course Description](#description)
+- [Course Description](#course-description)
 - [Criteria for Credit](#criteria-for-credit)
 - [Disability Statement](#disability-statement)
 
