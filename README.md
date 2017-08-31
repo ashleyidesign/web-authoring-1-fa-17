@@ -77,7 +77,7 @@ experience for all users and devices
 
 ## Lessons
 
-1. [Ebb & Flow](lessons/01-ebb--flow.md)
+1. [Ebb & Flow](lessons/01-ebb-and-flow.md)
 2. [Content First](lessons/02-content-first.md)
 3. [Device Agnostic](lessons/03-device-agnostic.md)
 4. [Single Serving](lessons/04-single-serving.md)
