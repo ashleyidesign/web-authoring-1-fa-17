@@ -14,7 +14,7 @@
 
 - [Course Description](#course-description)
 - [Criteria for Credit](#criteria-for-credit)
-- [Disability Statement](#disability-statement)
+- [Support Services](#support-services)
 
 - - -
 
