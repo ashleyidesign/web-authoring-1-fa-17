@@ -40,6 +40,22 @@ Copy and paste this section into a new task list `issue` within your repo and ti
 
 **Note:** Prefixed `[ ] →` links are required reading (or viewing). `#readme`
 
+### Writing
+
+- [ ] → [“Lean Content” by Stephanie Hay](https://www.youtube.com/watch?v=g2QO9nZUVk4&feature=youtu.be) `video`
+- [ ] → [Be Succinct! (Writing for the Web)](https://www.nngroup.com/articles/be-succinct-writing-for-the-web/)
+- [Writing for the Web](https://www.usability.gov/how-to-and-tools/methods/writing-for-the-web.html)
+- [Reading Content on Mobile Devices](https://www.nngroup.com/articles/mobile-content/)
+- [Keep it short (but not too short)](http://www.learnnc.org/lp/editions/webwriting/708)
+- [Voice and Tone](http://styleguide.mailchimp.com/voice-and-tone/)
+- [Measure Text Readability](https://readable.io/text/)
+- [Hemingway Editor](http://www.hemingwayapp.com)
+- [Nitpicker](http://nitpickertool.com)
+
+### Meaningful Links
+
+- [ ] → [“Learn More” Links: You Can Do Better](https://www.nngroup.com/articles/learn-more-links/)
+
 ### Responsive Web Design
 
 - [ ] → [A Dao of Web Design](https://alistapart.com/article/dao)
@@ -55,7 +71,3 @@ Copy and paste this section into a new task list `issue` within your repo and ti
 ### Semantics, Syntax, and Vocabulary
 
 - [Why You Should Say HTML Classes, CSS Class Selectors, or CSS Pseudo-Classes, but Not CSS Classes](http://tantek.com/2012/353/b1/why-html-classes-css-class-selectors)
-
-### Meaningful Links
-
-- [ ] → [“Learn More” Links: You Can Do Better](https://www.nngroup.com/articles/learn-more-links/)
