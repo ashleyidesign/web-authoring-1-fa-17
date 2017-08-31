@@ -103,7 +103,7 @@ experience for all users and devices
           - [“Resilience” by Jeremy Keith](https://vimeo.com/166140718)
           - [Ebb & Flow](lessons/01-ebb--flow.md) overview
       - Homework
-          - Reading, writing, and illustrating
+          - [Content First](lessons/01-ebb-and-flow.md#work--rubric): Read, write, and illustrate
 - **09/05** / Tuesday
   - Work from home day
       - 7–8 p.m.
