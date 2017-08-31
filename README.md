@@ -20,7 +20,7 @@
 
 - [Lessons](#lessons)
 - [Schedule](#schedule)
-- [Software](#tools)
+- [Software](#software)
 - [Books](#books)
 
 ## Course Description
