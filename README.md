@@ -72,8 +72,8 @@ experience for all users and devices
 - Under the guidance of section 504 of the Rehabilitation Act of 1973 and the Americans with Disabilities Act Amendments Act of 2008 (ADAAA),it is the priorty of the college to create an equitable and accessible learning environment for you.
 - If you're registered with the Disability Services Office and approved to use accommodations, let's find a time to talk about how you might use those accommodations in this course.
 - If you have questions about disability services or accommodations, please contact the Writing Studio.
- - Location: 248 Cabot Street, Room 207
- - Email: `thewritingstudio@montserrat.edu`
+  - Location: 248 Cabot Street, Room 207
+  - Email: `thewritingstudio@montserrat.edu`
 
 ## Lessons
 
