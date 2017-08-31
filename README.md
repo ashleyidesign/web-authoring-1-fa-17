@@ -9,7 +9,6 @@
 - Email: `justin.gagne@montserrat.edu`
 - Office Hours: On campus most Fridays after 1 p.m. until 5 p.m.; email or slack in advance to schedule time.
 - Work: Design lead for [Gymnasium](https://thegymnasium.com) at [Aquent](https://aquent.com) in Boston, MA.
-  - Gymnasium is bridging the gap between education and opportunity with free online courses designed for creative professionals.
 
 - - -
 
