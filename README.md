@@ -111,7 +111,7 @@ experience for all users and devices
 - **09/07** / Thursday
 - **09/12** / Tuesday
 - **09/14** / Thursday
- - Work in progress review
+  - Work in progress review
 - **09/19** / Tuesday
 - **09/21** / Thursday
   - Final review
@@ -123,7 +123,7 @@ experience for all users and devices
 - **09/28** / Thursday
 - **09/26** / Tuesday
 - **09/28** / Thursday
- - Work in progress review
+  - Work in progress review
 - **10/03** / Tuesday
 - **10/05** / Thursday
   - Final review
@@ -137,7 +137,7 @@ experience for all users and devices
 - **10/19** / Thursday
 - **10/24** / Tuesday
 - **10/26** / Thursday
- - Work in progress review
+  - Work in progress review
 - ~~**10/31** / Tuesday~~
   - Advising Day; no class
 - **11/02** / Thursday
@@ -154,7 +154,7 @@ experience for all users and devices
 - ~~**11/23** / Thursday~~
  - Thanksgiving; no class
 - **11/28** / Tuesday
- - Work in progress review
+  - Work in progress review
 - **11/30** / Thursday
 - **12/05** / Tuesday
   - Final review
