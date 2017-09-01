@@ -6,7 +6,7 @@
 
 ## Brief
 
-Write and design a summary of the seminal article “[A Dao of Web Design](https://alistapart.com/article/dao)” by John Allsopp, as a responsive single-page website with semantic markup, flexible images, and a fluid grid.
+Write a summary and illustrate an image for the seminal article “[A Dao of Web Design](https://alistapart.com/article/dao)” by John Allsopp, then as a class, we’ll work as a team to develop a responsive single-page website with semantic markup, flexible images, and a fluid grid.
 
 ## Work & Rubric
 
