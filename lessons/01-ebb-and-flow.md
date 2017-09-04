@@ -68,6 +68,12 @@ Copy and paste this section into a new task list `issue` within your repo and ti
 - [ ] → [A Dao of Web Design](https://alistapart.com/article/dao)
 - [ ] → [Responsive Web Design](https://alistapart.com/article/responsive-web-design)
 
+### Web History
+
+- [The History of the Web](http://thehistoryoftheweb.com/timeline/)
+- [A Timeline of the History of the World Wide Web](http://webdirections.org/history/)
+- [A Brief History of Markup](https://html5forwebdesigners.com/history/)
+
 ### Creativity
 
 - [ ] → [David Lynch on Where Great Ideas Come From](https://vimeo.com/182093266) `video`
