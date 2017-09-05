@@ -101,7 +101,7 @@ experience for all users and devices
           - Course overview
       - Kickoff meeting
           - [“Resilience” by Jeremy Keith](https://vimeo.com/166140718)
-          - [Ebb & Flow](lessons/01-ebb--flow.md) overview
+          - [Ebb & Flow](lessons/01-ebb-and-flow.md) overview
       - Homework
           - [Content First](lessons/01-ebb-and-flow.md#work--rubric): Read, write, and illustrate
 - **09/05** / Tuesday
