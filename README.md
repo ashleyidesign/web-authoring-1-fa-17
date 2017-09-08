@@ -112,7 +112,7 @@ experience for all users and devices
           - Individual check-in and work session via Slack
       - Homework
           - “HTML5 for Web Designers”
-              - Read chapters 1, 2, and 5
+              - Read: Chapters 1, 2, and 5
 - **09/07** / Thursday
 - **09/12** / Tuesday
 - **09/14** / Thursday
