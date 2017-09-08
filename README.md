@@ -114,6 +114,14 @@ experience for all users and devices
           - “HTML5 for Web Designers”
               - Read: Chapters 1, 2, and 5
 - **09/07** / Thursday
+  - Homework
+      - Revise summary based on guidelines
+          - [Steps to Writing a Summary](http://www.mrshatzi.com/files/summary.pdf) (See page 2 for summary guidelines.)
+      - Write “About the Author” text
+      - Update repo `README.md` to include: summary outline, draft, revision, etc.
+      - “Responsive Web Design”
+          - Read: Forward, Introduction, and Chapter 1
+
 - **09/12** / Tuesday
 - **09/14** / Thursday
   - Work in progress review
