@@ -107,13 +107,28 @@ experience for all users and devices
 - **09/05** / Tuesday
   - Work from home day
       - 7–8 p.m.
-          - Sync meeting and lecture via Google Hangouts
+          - Lecture via Google Hangouts
+              - Getting to Know Markdown and GitHub for Publishing on the Web
       - 8–9 p.m.
           - Individual check-in and work session via Slack
       - Homework
           - “HTML5 for Web Designers”
               - Read: Chapters 1, 2, and 5
 - **09/07** / Thursday
+  - Review
+      - Writing Markdown
+      - Setting Up a Repo on GitHub
+  - Handouts
+      - Markdown Syntax (pocket reference from [Github Education Community](https://education.github.community))
+      - [HTML5 Element Index](http://html5doctor.com/#glossary) [`pdf'](./handouts/html5doctor-element-index.pdf)
+  - Lecture
+      - Best Practices for Naming Things (files, folders, etc.)
+        - Keep it lowercase; don’t use spaces (`%20`) to separate phrases, instead use hyphens (`-`) or an underscore (`_`)
+      - Hello, HTML!
+        - Tags and Elements; Versioning and Metadata; Visible Content in the Title and Body
+        - Hello, World! webpage
+        - Publish via GitHub
+        - [Validate HTML](https://validator.w3.org)
   - Homework
       - Revise summary based on guidelines
           - [Steps to Writing a Summary](http://www.mrshatzi.com/files/summary.pdf) (See page 2 for summary guidelines.)
@@ -184,11 +199,12 @@ experience for all users and devices
 
 Pick a *free* flavor…
 
-- [Atom](https://atom.io)
-- [BBEdit](http://www.barebones.com/products/bbedit/) (Mac only)
-- [Brackets](http://brackets.io)
-- [JS Bin](http://jsbin.com)
-- [HTML Builder Prototype](http://dev.artequalswork.com/builder/)
+- [Atom](https://atom.io) (GitHub)
+- [BBEdit](http://www.barebones.com/products/bbedit/) (Mac only [Made in Massachusetts])
+- [Brackets](http://brackets.io) (Adobe)
+- [Visual Code Studio](https://code.visualstudio.com) (Microsoft)
+- [JS Bin](http://jsbin.com) (web-based)
+- [HTML Builder Prototype](http://dev.artequalswork.com/builder/) (web-based)
 
 ### Digital Design
 
