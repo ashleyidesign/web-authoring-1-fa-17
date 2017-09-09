@@ -21,7 +21,7 @@ Copy and paste this section into a new task list `issue` within your repo and ti
   - Illustrate on paper and [redraw or draw in Illustrator](https://design.tutsplus.com/tutorials/how-to-create-a-classic-vector-painting-with-watercolor-washes-and-line-art--vector-1481) or Sketch, not in Photoshop `#vector`
   - If illustrated on paper, scan in or capture as a photo reference to place into Illustrator or Sketch and redraw as vector art
   - First, solve the illustration; second, fuss over the visual style
-- [ ] Provide an “About the Author” section with a brief bio and headshot photo `#selfie`
+- [ ] Provide an “About the Author” section with [a brief bio](https://alistapart.com/author/johnallsopp), 2–3 sentences in length, and headshot photo `#selfie`
 - [ ] Provide a “Read Full Article” link at the end of the summary
 - [ ] Use of [Markdown](https://guides.github.com/features/mastering-markdown/) to show the hierarchy and structure of the content, such as headings and subheadings, and paragraphs and lists
 
