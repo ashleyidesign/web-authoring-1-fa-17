@@ -22,8 +22,28 @@ Copy and paste this section into a new task list `issue` within your repo and ti
   - If illustrated on paper, scan in or capture as a photo reference to place into Illustrator or Sketch and redraw as vector art
   - First, solve the illustration; second, fuss over the visual style
 - [ ] Provide an “About the Author” section with [a brief bio](https://alistapart.com/author/johnallsopp), 2–3 sentences in length, and headshot photo `#selfie`
-- [ ] Provide a “Read Full Article” link at the end of the summary
+- [ ] Provide a “Read Full Article” link, to the original, at the end of the summary
 - [ ] Use of [Markdown](https://guides.github.com/features/mastering-markdown/) to show the hierarchy and structure of the content, such as headings and subheadings, and paragraphs and lists
+
+### Semantic Markup
+
+`20 points`
+
+- [ ] Use of section and grouping elements for chunking content into semantically structured content
+- [ ] Use of `h1`–`h6` for headings and subheadings
+- [ ] Use and understanding of the difference between `b` and `i`, and `strong` and `em`
+- [ ] Use of `a` for external and fragment hyperlinks
+
+### Imagery
+
+`20 points`
+
+- [ ] Size image at 960px × 480px (2:1)
+  - 960px is the required width, however the height can be shorter than 480px (if necessary)
+- [ ] Save/export image as a PNG (`.png`) and an SVG (`.svg`)
+- [ ] Optimization of images using [ImageOptim](https://imageoptim.com/mac) and [SVGOMG!](https://jakearchibald.github.io/svgomg/)
+- [ ] Use of `src` and `srcset` attributes for providing fallback and future-friendly image formats
+- [ ] Use of `alt` attribute for providing
 
 ### Style as an Enhancement
 
@@ -33,6 +53,19 @@ Copy and paste this section into a new task list `issue` within your repo and ti
 - [ ] Author and apply styles for mobile first
 - [ ] Author and apply media query styles for breakpoints
 - [ ] Author and apply a print stylesheet to print as a single-page
+
+### Best Practices
+
+`20 points`
+
+- [ ] When naming things — keep it lowercase, and use a hyphen (`-`) or an underscores (`_`), not a space (`%20`), for separating phrases in HTML and CSS, files, folders, etc.
+- [ ] Format HTML and CSS via [DirtyMarkup](https://dirtymarkup.com)
+  - `BBEdit` > `Markup` > `Utilities` > `Format…`
+- [ ] Use CSS shorthand, [Shrthnd](http://shrthnd.volume7.io), for `font`, `margin`, et al. properties for brevity
+- [ ] Use `em` values for better web typography; `px` to `em` via [Pixem](http://matthewkosloski.me/labs/pixem/)
+- [ ] Validate markup and style; fix all errors; resolve warnings (if possible)
+  - [HTML Validation](https://validator.w3.org)
+  - [CSS Validation](https://jigsaw.w3.org/css-validator/) services
 
 ## Readings & Resources
 
