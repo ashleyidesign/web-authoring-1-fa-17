@@ -75,7 +75,7 @@ Copy and paste this section into a new task list `issue` within your repo and ti
 
 ### Short & Sweet
 
-- [ ] → [Naming CSS Stuff Is Really Hard](https://seesparkbox.com/foundry/naming_css_stuff_is_really_hard)
+- [ ] → [Steps to Writing a Summary](http://www.mrshatzi.com/files/summary.pdf) (See page 2 for summary guidelines.)
 - [ ] → [Be Succinct! (Writing for the Web)](https://www.nngroup.com/articles/be-succinct-writing-for-the-web/)
 - [Keep it short (but not too short)](http://www.learnnc.org/lp/editions/webwriting/708)
 
@@ -118,3 +118,8 @@ Copy and paste this section into a new task list `issue` within your repo and ti
 
 - [ ] → [Naming CSS Stuff Is Really Hard](https://seesparkbox.com/foundry/naming_css_stuff_is_really_hard)
 - [ ] → [Why You Should Say HTML Classes, CSS Class Selectors, or CSS Pseudo-Classes, but Not CSS Classes](http://tantek.com/2012/353/b1/why-html-classes-css-class-selectors)
+- [Style Manual](http://stylemanual.org)
+
+## Accessibility
+
+- [ ] → [Alt Text is Part of Your Site’s Content](http://centercentre.com/blog/2016-06-30-alt-text-is-part-of-your-sites-content)
