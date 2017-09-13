@@ -122,8 +122,8 @@ experience for all users and devices
       - Markdown Syntax (pocket reference from [Github Education Community](https://education.github.community))
       - [HTML5 Element Index](http://html5doctor.com/#glossary) [`pdf'](./handouts/html5doctor-element-index.pdf)
   - Lecture
-      - Best Practices for Naming Things (files, folders, etc.)
-        - Keep it lowercase; don’t use spaces (`%20`) to separate phrases, instead use hyphens (`-`) or an underscore (`_`)
+      - Best Practices for Naming Things
+        - Keep it lowercase, and use a hyphen (`-`) or an underscores (`_`), *not a space* (`%20`), for separating phrases in HTML and CSS, files, folders, etc.
       - Hello, HTML!
         - Tags and Elements; Versioning and Metadata; Visible Content in the Title and Body
         - Hello, World! webpage
@@ -138,7 +138,13 @@ experience for all users and devices
           - Read: Forward, Introduction, and Chapter 1
 
 - **09/12** / Tuesday
+  - Lecture
+    - Markdown to HTML Workflow Using BBEdit
+  - Homework
+      - Read: [The `i`, `b`, `em,` & `strong` Elements](http://html5doctor.com/i-b-em-strong-element/)
 - **09/14** / Thursday
+  - Lecture
+      - HTML Document Flow and the CSS Box Model
   - Work in progress review
 - **09/19** / Tuesday
 - **09/21** / Thursday
