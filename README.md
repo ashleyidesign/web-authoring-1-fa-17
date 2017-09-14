@@ -92,112 +92,169 @@ experience for all users and devices
 
 15 weeks; 30 classes.
 
+- - -
+
 ### Ebb & Flow
 
-- **08/31** / Thursday
-  - First day of class
-      - Introductions
-          - Icebreaker
-          - Course overview
-      - Kickoff meeting
-          - [“Resilience” by Jeremy Keith](https://vimeo.com/166140718)
-          - [Ebb & Flow](lessons/01-ebb-and-flow.md) overview
-      - Homework
-          - [Content First](lessons/01-ebb-and-flow.md#work--rubric): Read, write, and illustrate
-- **09/05** / Tuesday
-  - Work from home day
-      - 7–8 p.m.
-          - Lecture via Google Hangouts
-              - Getting to Know Markdown and GitHub for Publishing on the Web
-      - 8–9 p.m.
-          - Individual check-in and work session via Slack
-      - Homework
-          - “HTML5 for Web Designers”
-              - Read: Chapters 1, 2, and 5
-- **09/07** / Thursday
-  - Review
-      - Writing Markdown
-      - Setting Up a Repo on GitHub
-  - Handouts
-      - Markdown Syntax (pocket reference from [Github Education Community](https://education.github.community))
-      - [HTML5 Element Index](http://html5doctor.com/#glossary) [`pdf'](./handouts/html5doctor-element-index.pdf)
-  - Lecture
-      - Best Practices for Naming Things
-        - Keep it lowercase, and use a hyphen (`-`) or an underscores (`_`), *not a space* (`%20`), for separating phrases in HTML and CSS, files, folders, etc.
-      - Hello, HTML!
-        - Tags and Elements; Versioning and Metadata; Visible Content in the Title and Body
-        - Hello, World! webpage
-        - Publish via GitHub
-        - [Validate HTML](https://validator.w3.org)
-  - Homework
-      - Revise summary based on guidelines
-          - [Steps to Writing a Summary](http://www.mrshatzi.com/files/summary.pdf) (See page 2 for summary guidelines.)
-      - Write “About the Author” text
-      - Update repo `README.md` to include: summary outline, draft, revision, etc.
-      - “Responsive Web Design”
-          - Read: Forward, Introduction, and Chapter 1
+#### 08/31 Thursday
 
-- **09/12** / Tuesday
-  - Lecture
-    - Markdown to HTML Workflow Using BBEdit
-  - Homework
-      - Read: [The `i`, `b`, `em,` & `strong` Elements](http://html5doctor.com/i-b-em-strong-element/)
-- **09/14** / Thursday
-  - Lecture
-      - HTML Document Flow and the CSS Box Model
-  - Work in progress review
-- **09/19** / Tuesday
-- **09/21** / Thursday
-  - Final review
+- First day of class
+    - Introductions
+        - Icebreaker
+        - Course overview
+    - Kickoff meeting
+        - [“Resilience” by Jeremy Keith](https://vimeo.com/166140718)
+        - [Ebb & Flow](lessons/01-ebb-and-flow.md) overview
+    - Homework
+        - [Content First](lessons/01-ebb-and-flow.md#work--rubric): Read, write, and illustrate
+
+#### 09/05 Tuesday
+
+- Work from home day
+    - 7–8 p.m.
+        - Lecture via Google Hangouts
+            - Getting to Know Markdown and GitHub for Publishing on the Web
+    - 8–9 p.m.
+        - Individual check-in and work session via Slack
+    - Homework
+        - “HTML5 for Web Designers”
+            - Read: Chapters 1, 2, and 5
+
+#### 09/07 Thursday
+
+- Review
+    - Writing Markdown
+    - Setting Up a Repo on GitHub
+- Handouts
+    - Markdown Syntax (pocket reference from [Github Education Community](https://education.github.community))
+    - [HTML5 Element Index](http://html5doctor.com/#glossary) [`pdf`](./handouts/html5doctor-element-index.pdf)
+- Lecture
+    - Best Practices for Naming Things
+      - Keep it lowercase, and use a hyphen (`-`) or an underscores (`_`), *not a space* (`%20`), for separating phrases in HTML and CSS, files, folders, etc.
+    - Hello, HTML!
+      - Tags and Elements; Versioning and Metadata; Visible Content in the Title and Body
+      - Hello, World! webpage
+      - Publish via GitHub
+      - [Validate HTML](https://validator.w3.org)
+- Homework
+    - Revise summary based on guidelines
+        - [Steps to Writing a Summary](http://www.mrshatzi.com/files/summary.pdf) (See page 2 for summary guidelines.)
+    - Write “About the Author” text
+    - Update repo `README.md` to include: summary outline, draft, revision, etc.
+    - “Responsive Web Design”
+        - Read: Forward, Introduction, and Chapter 1
+
+#### 09/12 Tuesday
+
+- Lecture
+  - Markdown to HTML Workflow Using BBEdit
+- Homework
+    - Read: [The `i`, `b`, `em,` & `strong` Elements](http://html5doctor.com/i-b-em-strong-element/)
+
+#### 09/14 Thursday
+
+- Lecture
+    - HTML Document Flow and the CSS Box Model
+    - Fonts, Flexible Images, and Fluid Grids
+- Work in progress review
+
+#### 09/19 Tuesday
+
+#### 09/21 Thursday
+
+- Final review
+
+- - -
 
 ### Content First
 
-- **09/26** / Tuesday
-  - Kickoff meeting
-- **09/28** / Thursday
-- **09/26** / Tuesday
-- **09/28** / Thursday
-  - Work in progress review
-- **10/03** / Tuesday
-- **10/05** / Thursday
-  - Final review
+#### 09/26 Tuesday
+
+- Kickoff meeting
+
+#### 09/28 Thursday
+
+#### 09/26 Tuesday
+
+#### 09/28 Thursday
+
+- Work in progress review
+
+#### 10/03 Tuesday
+
+#### 10/05 Thursday
+
+- Final review
+
+- - -
 
 ### Device Agnostic
 
-- **10/10** / Tuesday
-  - Kickoff meeting
-- **10/12** / Thursday
-- **10/17** / Tuesday
-- **10/19** / Thursday
-- **10/24** / Tuesday
-- **10/26** / Thursday
-  - Work in progress review
-- ~~**10/31** / Tuesday~~
-  - Advising Day; no class
-- **11/02** / Thursday
-- **11/07** / Tuesday
-  - Final review
+#### 10/10 Tuesday
+
+- Kickoff meeting
+
+#### 10/12 Thursday
+
+#### 10/17 Tuesday
+
+#### 10/19 Thursday
+
+#### 10/24 Tuesday
+
+#### 10/26 Thursday
+
+- Work in progress review
+
+#### ~~10/31 Tuesday~~
+
+- Advising Day; no class
+
+#### 11/02 Thursday
+
+#### 11/07 Tuesday
+
+- Final review
+
+- - -
 
 ### Single Serving
 
-- **11/09** / Thursday
-  - Kickoff meeting
-- **11/14** / Tuesday
-- **11/16** / Thursday
-- **11/21** / Tuesday
-- ~~**11/23** / Thursday~~
- - Thanksgiving; no class
-- **11/28** / Tuesday
-  - Work in progress review
-- **11/30** / Thursday
-- **12/05** / Tuesday
-  - Final review
-- **12/07** / Thursday
-  - Final
-- **12/12** / Tuesday
-  - Last day of class
-      - Final and all projects published via GitHub by the end of class
-          - Final url submitted via Slack
+#### 11/09 Thursday
+
+- Kickoff meeting
+
+#### 11/14 Tuesday
+
+#### 11/16 Thursday
+
+#### 11/21 Tuesday
+
+#### ~~11/23 Thursday~~
+
+- Thanksgiving; no class
+
+#### 11/28 Tuesday
+
+- Work in progress review
+
+#### 11/30 Thursday
+
+#### 12/05 Tuesday
+
+- Final review
+
+#### 12/07 Thursday
+
+- - -
+
+### Final
+
+#### 12/12 Tuesday
+
+- Last day of class
+    - Final and all projects published via GitHub by the end of class
+        - Final url submitted via Slack
 
 ## Software
 
