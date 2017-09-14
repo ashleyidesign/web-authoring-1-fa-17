@@ -58,7 +58,7 @@ Copy and paste this section into a new task list `issue` within your repo and ti
 
 `20 points`
 
-- [ ] When naming things — keep it lowercase, and use a hyphen (`-`) or an underscores (`_`), not a space (`%20`), for separating phrases in HTML and CSS, files, folders, etc.
+- [ ] When naming things — keep it lowercase, and use a hyphen (`-`) or an underscores (`_`), *not a space* (`%20`), for separating phrases in HTML and CSS, files, folders, etc.
 - [ ] Format HTML and CSS via [DirtyMarkup](https://dirtymarkup.com)
   - `BBEdit` > `Markup` > `Utilities` > `Format…`
 - [ ] Use CSS shorthand, [Shrthnd](http://shrthnd.volume7.io), for `font`, `margin`, et al. properties for brevity
@@ -66,6 +66,11 @@ Copy and paste this section into a new task list `issue` within your repo and ti
 - [ ] Validate markup and style; fix all errors; resolve warnings (if possible)
   - [HTML Validation](https://validator.w3.org)
   - [CSS Validation](https://jigsaw.w3.org/css-validator/) services
+
+- - -
+
+### Extra Credit
+
 
 ## Readings & Resources
 
@@ -114,11 +119,55 @@ Copy and paste this section into a new task list `issue` within your repo and ti
 - [ ] → [Malcolm Gladwell Looks At Technology Innovations](http://www.npr.org/2011/05/16/136368716/malcolm-gladwell-looks-at-technology-innovations) `audio`
 - [Creation Myth](http://www.newyorker.com/magazine/2011/05/16/creation-myth)
 
+### HTML & CSS Reference
+
+- [HTML5 Element Index](http://html5doctor.com/#glossary)
+- [Mozilla Developer Network (MDN) Web Docs](https://developer.mozilla.org/en-US/)
+- [Learn to Code HTML & CSS](http://learn.shayhowe.com/html-css/)
+- [Marksheet](http://marksheet.io) A Free HTML & CSS Tutorial
+
+### HTML Basics
+
+- [Getting to Know HTML](http://learn.shayhowe.com/html-css/getting-to-know-html/)
+
+### HTML Document Flow
+
+- [The Flow](http://marksheet.io/css-the-flow.html)
+
+### HTML Document Outline
+
+- [Computer Says NO to HTML5 Document Outline](http://html5doctor.com/computer-says-no-to-html5-document-outline/)
+- [Document Outlines in HTML 5.1](https://bitsofco.de/document-outlines-in-html-5-1/)
+- [HTML 5 Outliner](https://gsnedders.html5.org/outliner/)
+
+### CSS Basics
+
+- [Getting to Know CSS](http://learn.shayhowe.com/html-css/getting-to-know-css/)
+
+### CSS Box Model
+
+- [CSS Box Model](https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS/Box_model)
+- [Opening the Box Model](http://learn.shayhowe.com/html-css/opening-the-box-model/)
+- [What’s the Deal with Collapsible Margins?](https://bitsofco.de/collapsible-margins/)
+
 ### Semantics, Syntax, and Vocabulary
 
 - [ ] → [Naming CSS Stuff Is Really Hard](https://seesparkbox.com/foundry/naming_css_stuff_is_really_hard)
 - [ ] → [Why You Should Say HTML Classes, CSS Class Selectors, or CSS Pseudo-Classes, but Not CSS Classes](http://tantek.com/2012/353/b1/why-html-classes-css-class-selectors)
+- [ ] → [Semantic Content Markup](http://webstyleguide.com/wsg3/5-site-structure/2-semantic-markup.html)
+- [HTML & CSS Vocabulary](http://apps.workflower.fi/vocabs/)
+- [CSS Vocabulary](http://nimbupani.com/css-vocabulary.html)
 - [Style Manual](http://stylemanual.org)
+
+### HTML & CSS Validation
+
+- [W3C HTML Checker](https://validator.w3.org) Validate HTML and check document outline
+- [W3C CSS Checker](https://jigsaw.w3.org/css-validator/) Validate CSS
+
+### Typographic Details
+
+[HTML Arrows](https://www.toptal.com/designers/htmlarrows/) A delightful reference for HTML Symbols, Entities and ASCII Character Codes
+[Butterick’s Practical Typography](http://practicaltypography.com)
 
 ## Accessibility
 
