@@ -157,6 +157,9 @@ experience for all users and devices
     - HTML Document Flow and the CSS Box Model
     - Fonts, Flexible Images, and Fluid Grids
 - Work in progress review
+- Homework
+  - Read: [Chapter 2: HTML Basics](http://marksheet.io/html-basics.html)
+  - Read: [Chapter 4: CSS Basics](http://marksheet.io/css-basics.html)
 
 #### 09/19 Tuesday
 
