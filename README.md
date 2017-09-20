@@ -163,6 +163,10 @@ experience for all users and devices
 
 #### 09/19 Tuesday
 
+- Homework
+  - Read: [CSS Box Model Properties](http://cssreference.io/box-model/)
+  - Read: [CSS Typography Properties](http://cssreference.io/typography/)
+
 #### 09/21 Thursday
 
 - Final review
