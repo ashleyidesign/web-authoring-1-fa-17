@@ -64,7 +64,19 @@ Copy and paste this section into a new task list `issue` within your repo and ti
 
 - [ ] → [Typographically Speaking: A Conversation with Matthew Carter](https://vimeo.com/140351682) `video`
 - [Channel Verdana](https://www.microsoft.com/typography/web/fonts/verdana/)
+- [Alma Mono](http://almamono.com)
+- [Tofino](http://tofino.losttype.com)
+- [Courier Prime](https://quoteunquoteapps.com/courierprime/)
 - [Untitled Serif](https://klim.co.nz/retail-fonts/untitled-serif/)
+- [The Inter UI font family](https://rsms.me/inter/)
+- [Lehigh: A typeface by the LostType Co-op](https://lehigh.losttype.com)
+- [Moriston](http://moriston.losttype.com)
+- [Source Han Serif: An open source Pan-CJK typeface](https://source.typekit.com/source-han-serif/#story)
+- [Tilda: A script typeface Jessica Hische](http://tilda.fontbureau.com)
+
+### Type Terminology
+
+- [Type Terms](https://www.supremo.tv/typeterms/)
 
 ### Color Contrast
 
