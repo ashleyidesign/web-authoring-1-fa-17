@@ -17,33 +17,35 @@ Copy and paste this section into a new task list `issue` within your repo and ti
 `20 points`
 
 - [ ] Write a [summary](https://seesparkbox.com/foundry/naming_css_stuff_is_really_hard) of the article, 256 words or fewer in length
+- [ ] Use of [Markdown](https://guides.github.com/features/mastering-markdown/) to show the hierarchy and structure of the content, such as headings and subheadings, and paragraphs and lists
 - [ ] Illustrate a [hero image](https://en.wikipedia.org/wiki/Hero_image), with a 2:1 ratio, in the existing style of [Kevin Cornell](http://www.bearskinrug.co.uk/projects/alistapart/)
-  - Illustrate on paper and [redraw or draw in Illustrator](https://design.tutsplus.com/tutorials/how-to-create-a-classic-vector-painting-with-watercolor-washes-and-line-art--vector-1481) or Sketch, not in Photoshop `#vector`
-  - If illustrated on paper, scan in or capture as a photo reference to place into Illustrator or Sketch and redraw as vector art
   - First, solve the illustration; second, fuss over the visual style
+  - Scan in or capture as a photo; edit and save for web in Photoshop (see [Imagery](#imagery) for details)
 - [ ] Provide an “About the Author” section with [a brief bio](https://alistapart.com/author/johnallsopp), 2–3 sentences in length, and headshot photo `#selfie`
 - [ ] Provide a “Read Full Article” link, to the original, at the end of the summary
-- [ ] Use of [Markdown](https://guides.github.com/features/mastering-markdown/) to show the hierarchy and structure of the content, such as headings and subheadings, and paragraphs and lists
 
 ### Semantic Markup
 
 `20 points`
 
-- [ ] Use of section and grouping elements for chunking content into semantically structured content
+- [ ] Use of section (`header`, `footer`, `section`, etc.), and grouping (`figure`, `p`, `ul`, etc.) elements for chunking content into semantically structured content
 - [ ] Use of `h1`–`h6` for headings and subheadings
 - [ ] Use and understanding of the difference between `b` and `i`, and `strong` and `em`
 - [ ] Use of `a` for external and fragment hyperlinks
+- [ ] Use of the `alt` attribute to provide a [short description]((http://centercentre.com/blog/2016-06-30-alt-text-is-part-of-your-sites-content), alternative text, of the visual content displayed in the hero image
 
 ### Imagery
 
 `20 points`
 
-- [ ] Size image at 960px × 480px (2:1)
+- [ ] Size hero image at 960px × 480px (2:1)
   - 960px is the required width, however the height can be shorter than 480px (if necessary)
-- [ ] Save/export image as a PNG (`.png`) and an SVG (`.svg`)
-- [ ] Optimization of images using [ImageOptim](https://imageoptim.com/mac) and [SVGOMG!](https://jakearchibald.github.io/svgomg/)
-- [ ] Use of `src` and `srcset` attributes for providing fallback and future-friendly image formats
-- [ ] Use of `alt` attribute for providing
+- [ ] Size headshot photo, cropped at 256px × 256px (1:1) or un-cropped at a maximum width of 256px wide
+  - Use CSS to crop un-cropped headshot photos to display square
+- [ ] Save images using Photoshop, export `Save for Web (Legacy)…` hero image as a PNG (`.png`) using the preset `PNG-8 128 Dithered` and headshot photo as a JPG (`.jpg`) using the preset `JPEG High`
+  - Name images `hero-image-firstname-lastname.png` and `headshot-firstname-lastname.jpg` (replace `firstname` and `lastname` with your first and last name)
+- [ ] Optimization images using [ImageOptim](https://imageoptim.com/mac)
+- [ ] Use of an `img` folder to organize images
 
 ### Style as an Enhancement
 
@@ -53,10 +55,11 @@ Copy and paste this section into a new task list `issue` within your repo and ti
 - [ ] Author and apply styles for mobile first
 - [ ] Author and apply media query styles for breakpoints
 - [ ] Author and apply a print stylesheet to print as a single-page
+- [ ] Use of a `css` folder to organize style sheets
 
 ### Best Practices
 
-`20 points`
+`10 points`
 
 - [ ] When naming things — keep it lowercase, and use a hyphen (`-`) or an underscores (`_`), *not a space* (`%20`), for separating phrases in HTML and CSS, files, folders, etc.
 - [ ] Format HTML and CSS via [DirtyMarkup](https://dirtymarkup.com)
@@ -67,10 +70,46 @@ Copy and paste this section into a new task list `issue` within your repo and ti
   - [HTML Validation](https://validator.w3.org)
   - [CSS Validation](https://jigsaw.w3.org/css-validator/) services
 
+### GitHub
+
+`10 points`
+
+- [ ] Repo should contain only essential files:
+  - `README.md`
+    - Include a heading (title) and paragraph (description) for the project
+    - Include a menu (navigation) list to the following sections:
+      - Draft
+       - Draft of summary (text and image)
+      - Revision
+        - Revision of summary (text and image)
+      - Final
+        - Link to final summary webpage `index.html`
+      - Notes (optional)
+        - List of odds and ends
+  - `index.html` (HTML with added metadata, structure, and CSS)
+  - `summary.html` (Markdown to HTML with added semantics)
+  - `summary.md` (Markdown only)
+  - `css` (folder containing external style sheets)
+    - For example: `main.css` and `print.css`
+  - `img` (folder containing images)
+    - For example: `hero-image-firstname-lastname.png` and `headshot-firstname-lastname.jpg`
+  - `versions` (optional folder containing tests, experiments, work in progress, etc.)
+    - For example: `test-1.html`
+  - `refs` (optional folder containing reference images [sketches, screenshots, etc.])
+    - For example: `sketch-1.png`
+    - Or include a list of references (links) in the `README.md`
+- [ ] Add a [description and url](https://i.imgur.com/CexeWBQ.gif) to your GitHub repo
+  - For example: _A Summary of A Dao of Web Design_ and `https://johnallsopp.github.io/dao-summary`
+
 - - -
 
 ### Extra Credit
 
+`15 points`
+
+- [ ] Redraw hero image [using Illustrator](https://design.tutsplus.com/tutorials/how-to-create-a-classic-vector-painting-with-watercolor-washes-and-line-art--vector-1481) or Sketch, not in Photoshop, and save as an SVG (`.svg`) `#vector`
+- [ ] Optimization of SVG (`.svg`) using [SVGOMG!](https://jakearchibald.github.io/svgomg/)
+- [ ] Use of the `src` (to embed the `.png`) and `srcset` (to embed the `.svg`) attributes for providing fallback and future-friendly image formats
 
 ## Readings & Resources
 
@@ -125,6 +164,8 @@ Copy and paste this section into a new task list `issue` within your repo and ti
 - [Mozilla Developer Network (MDN) Web Docs](https://developer.mozilla.org/en-US/)
 - [Learn to Code HTML & CSS](http://learn.shayhowe.com/html-css/)
 - [Marksheet](http://marksheet.io) A Free HTML & CSS Tutorial
+- [HTML Reference](http://htmlreference.io)
+- [CSS Reference](http://cssreference.io)
 
 ### HTML Basics
 
@@ -166,8 +207,9 @@ Copy and paste this section into a new task list `issue` within your repo and ti
 
 ### Typographic Details
 
-[HTML Arrows](https://www.toptal.com/designers/htmlarrows/) A delightful reference for HTML Symbols, Entities and ASCII Character Codes
-[Butterick’s Practical Typography](http://practicaltypography.com)
+- [ ] → [Typography Cheatsheet](https://www.typewolf.com/cheatsheet)
+- [HTML Arrows](https://www.toptal.com/designers/htmlarrows/) A delightful reference for HTML Symbols, Entities and ASCII Character Codes
+- [Butterick’s Practical Typography](http://practicaltypography.com)
 
 ## Accessibility
 
