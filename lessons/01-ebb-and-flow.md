@@ -32,7 +32,7 @@ Copy and paste this section into a new task list `issue` within your repo and ti
 - [ ] Use of `h1`–`h6` for headings and subheadings
 - [ ] Use and understanding of the difference between `b` and `i`, and `strong` and `em`
 - [ ] Use of `a` for external and fragment hyperlinks
-- [ ] Use of the `alt` attribute to provide a [short description]((http://centercentre.com/blog/2016-06-30-alt-text-is-part-of-your-sites-content), alternative text, of the visual content displayed in the hero image
+- [ ] Use of the `alt` attribute to provide a [short description](http://centercentre.com/blog/2016-06-30-alt-text-is-part-of-your-sites-content), alternative text, of the visual content displayed in the hero image
 
 ### Imagery
 
@@ -68,7 +68,7 @@ Copy and paste this section into a new task list `issue` within your repo and ti
 - [ ] Use `em` values for better web typography; `px` to `em` via [Pixem](http://matthewkosloski.me/labs/pixem/)
 - [ ] Validate markup and style; fix all errors; resolve warnings (if possible)
   - [HTML Validation](https://validator.w3.org)
-  - [CSS Validation](https://jigsaw.w3.org/css-validator/) services
+  - [CSS Validation](https://jigsaw.w3.org/css-validator/)
 
 ### GitHub
 
@@ -79,11 +79,13 @@ Copy and paste this section into a new task list `issue` within your repo and ti
     - Include a heading (title) and paragraph (description) for the project
     - Include a menu (navigation) list to the following sections:
       - Draft
-       - Draft of summary (text and image)
+        - Draft of summary (text and image)
       - Revision
         - Revision of summary (text and image)
       - Final
-        - Link to final summary webpage `index.html`
+        - Link to final version of summary as Markdown (`summary.md`)
+        - Link to final version of summary as HTML without CSS (`summary.html`)
+        - Link to final version of summary as HTML with CSS (`index.html`)
       - Notes (optional)
         - List of odds and ends
   - `index.html` (HTML with added metadata, structure, and CSS)
