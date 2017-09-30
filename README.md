@@ -7,7 +7,7 @@
 - Tuesday & Thursday, 6:30–9:10 p.m., H-305
 - Instructor: Justin Gagne
 - Email: `justin.gagne@montserrat.edu`
-- Office Hours: On campus most Fridays after 1 p.m. until 5 p.m.; email or slack in advance to schedule time.
+- Office Hours: On campus most Fridays after 2 p.m. until 5 p.m.; email or slack in advance to schedule time.
 - Work: Design lead for [Gymnasium](https://thegymnasium.com) at [Aquent](https://aquent.com) in Boston, MA.
 
 - - -
