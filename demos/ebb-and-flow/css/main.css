@@ -116,21 +116,21 @@ article h1 {
   margin-bottom: .5em;
   }
 
-main h2 {
+.main h2 {
   font: bold 1.5em/1.25 sans-serif;
   color: #ba3925;
   margin-top: 1.25em;
   margin-bottom: 1.25em;
   }
 
-main ul {
+.main ul {
   list-style: disc outside; /* default `style-type` and `style-position` */
   padding-left: 1.4em;
   margin: 1.875em 0;
   }
 
-main p,
-main li {
+.main p,
+.main li {
   font: 1.125em/1.667 georgia, serif;
   /* font-size: 1.125em; */
   /* line-height: 1.667; */
@@ -140,7 +140,7 @@ main li {
   /* margin-bottom: 1.5em; */
   }
 
-main li {
+.main li {
   margin-bottom: .75em;
   }
 
@@ -173,7 +173,7 @@ section.author p {
   margin-top: 0;
   }
 
-main blockquote {
+.main blockquote {
   margin-top: 0;
   margin-bottom: 0;
   }
@@ -192,7 +192,7 @@ main blockquote {
 
 /* --- layout --- */
 
-/* main text margin offset */
+/* .main text margin offset */
 
 .margin-offset {
   margin-right: 10%;
