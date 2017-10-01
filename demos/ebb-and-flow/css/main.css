@@ -63,13 +63,13 @@ figcaption.credit {
   text-align: right;
   }
 
-/* grayscale (black to white) 0123456789abcdef */
+/* adjust A List Apart layout for small(er) screens */
 
 figure.headshot {
   display: block;
   width: 7.5em;
   height: 7.5em;
-  border: .5em solid #eee;
+  border: .5em solid #eee; /* grayscale (black to white) 0123456789abcdef */
   border-radius: 50%; /* rounded corners / create circle */
   margin: .25em auto .75em;
   overflow: hidden; /* crop inside content */
@@ -80,7 +80,7 @@ css selectors
 https://www.quirksmode.org/css/selectors/
 */
 
-/* descendent selector */
+/* example of a descendent selector */
 
 figure.headshot img {
   max-width: 110%; /* enlarge image */
@@ -199,9 +199,13 @@ section.author p {
   margin-left: 10%;
   }
 
-/* --- wider screen breakpoint(s) --- */
+/* --- wider screens breakpoint(s) --- */
 
 @media (min-width: 48em) {
+
+/* about the author */
+
+/* revert to A List Apart layout */
 
 section.bio {
   margin-left: 9.375em;
