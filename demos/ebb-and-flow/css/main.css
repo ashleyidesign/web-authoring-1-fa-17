@@ -55,12 +55,14 @@ figure {
   }
 
 figure.artwork {
-  margin-bottom: 1em;
+  margin-top: 1.125em;
+  margin-bottom: 1.125em;
   }
 
 figcaption.credit {
   font-size: .8em;
   text-align: right;
+  margin-top: -1.25em;
   }
 
 /* adjust A List Apart layout for small(er) screens */
