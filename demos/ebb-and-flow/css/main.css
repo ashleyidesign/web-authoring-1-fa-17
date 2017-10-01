@@ -167,7 +167,7 @@ section.author h2 {
 
 section.author h3 {
   font: bold 1.125em/1.333 sans-serif;
-  margin-bottom: .1em;
+  margin-bottom: .167em; /* = .25em; 1.125 × 1.333 = 1.5; .25 / 1.5 = .167 */
   }
 
 section.author p {
