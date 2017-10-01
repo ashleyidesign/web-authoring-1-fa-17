@@ -103,7 +103,7 @@ experience for all users and devices
         - Icebreaker
         - Course overview
     - Kickoff meeting
-        - [“Resilience” by Jeremy Keith](https://vimeo.com/166140718)
+        - [“Resilience” by Jeremy Keith](https://vimeo.com/166140718) `video`
         - [Ebb & Flow](lessons/01-ebb-and-flow.md) overview
     - Homework
         - [Content First](lessons/01-ebb-and-flow.md#work--rubric): Read, write, and illustrate
@@ -169,49 +169,90 @@ experience for all users and devices
 
 #### 09/21 Thursday
 
-- Final review
+- Lecture
+  - CSS Box Model and Typography Properties
+
+#### 09/26 Tuesday
+
+- Lecture
+  - Print Styles and Media Queries
+  - HTML Document Outline
+
+#### 09/28 Thursday
+
+- Ebb & Flow — clean-up and wrap-up
+  - See "[Work & Rubric](lessons/01-ebb-and-flow.md/#work--rubric)" for details
+- [Content First](lessons/02-content-first.md) preview
+- Homework
+  - Ebb & Flow — prep for final review and completion
+    - See "[Work & Rubric](lessons/01-ebb-and-flow.md/#work--rubric)" for details
+    - [Ebb & Flow demo](https://github.com/jgagne/web-authoring-1-fa-17/tree/master/demos/ebb-and-flow) for comparison and guidance; [live preview](https://github.com/jgagne/web-authoring-1-fa-17/tree/master/demos/ebb-and-flow)
+  - Content First
+    - Select a [web safe font](lessons/02-content-first.md/#web-safe-fonts)
+    - Paper prototype/sketch of single-page layout (mobile first)
+      - [Paper Prototyping](https://alistapart.com/article/paperprototyping)
+      - [Printable Grids for Design Wireframing](http://sneakpeekit.com)
 
 - - -
 
 ### Content First
 
-#### 09/26 Tuesday
-
-- Kickoff meeting
-
-#### 09/28 Thursday
-
-#### 09/26 Tuesday
-
-#### 09/28 Thursday
-
-- Work in progress review
-
 #### 10/03 Tuesday
 
+- Ebb & Flow
+  - Odds and ends
+  - Final review (round 1)
+- Content First
+  - Kickoff meeting
+    - [Typographically Speaking: A Conversation with Matthew Carter](https://vimeo.com/140351682) `video`
+    - [Content First](lessons/02-content-first.md) overview
+    - Review paper prototypes/sketches
+- Homework
+  - Read: [Responsive Web Design](https://alistapart.com/article/responsive-web-design)
+  - Write a haiku based on Ethan Marcotte’s seminal article [Responsive Web Design](https://alistapart.com/article/responsive-web-design); three lines, 5-7-5 syllable structure, with the first and last lines having 5 syllables, and the middle line having 7 `markdown`
+  - Paper prototypes/sketches
+    - Print, cut-and-paste, photocopy (25–400% [for scale changes]), etc. and layout actual type (headings, paragraphs, numbers, etc.) set in your web safe font on paper
+
 #### 10/05 Thursday
-
-- Final review
-
-- - -
-
-### Device Agnostic
+- Ebb & Flow
+  - Final review (round 2)
+- Content First
+  - Review paper prototypes/sketches
+- Lecture
+  - Web Safe Fonts and Colors
+- Homework
+  - Responsive Haiku — single-webpage using web safe fonts and colors, and media queries
+  - Paper prototypes/sketches
+    - Print, cut-and-paste, photocopy (25–400% [for scale changes]), etc. and layout actual type (headings, paragraphs, numbers, etc.) set in your web safe font on paper
+    - For color use colored markers or colored paper (Color-aid or construction)
+  - “Responsive Web Design”
+      - Read: Chapter 2 — The Flexible Grid
 
 #### 10/10 Tuesday
-
-- Kickoff meeting
 
 #### 10/12 Thursday
 
 #### 10/17 Tuesday
 
+- Work in progress review
+
 #### 10/19 Thursday
 
 #### 10/24 Tuesday
 
+- Content First
+  - Final review (round 1)
+
+- - -
+
+### Device Agnostic
+
 #### 10/26 Thursday
 
-- Work in progress review
+- Content First
+  - Final review (round 2)
+- Device Agnostic
+  - Kickoff meeting
 
 #### ~~10/31 Tuesday~~
 
@@ -221,21 +262,21 @@ experience for all users and devices
 
 #### 11/07 Tuesday
 
-- Final review
-
-- - -
-
-### Single Serving
+- Work in progress review
 
 #### 11/09 Thursday
-
-- Kickoff meeting
 
 #### 11/14 Tuesday
 
 #### 11/16 Thursday
 
+- - -
+
+### Single Serving
+
 #### 11/21 Tuesday
+
+- Kickoff meeting
 
 #### ~~11/23 Thursday~~
 
@@ -249,9 +290,9 @@ experience for all users and devices
 
 #### 12/05 Tuesday
 
-- Final review
-
 #### 12/07 Thursday
+
+- Final review
 
 - - -
 
