@@ -1,13 +1,34 @@
+/*
+I Totally Forgot About Print Style Sheets
+A small collection of useful CSS techniques and a quick reminder that print style sheets are still a thing.
+https://uxdesign.cc/i-totally-forgot-about-print-style-sheets-f1e6604cfd6
+*/
+
 body {
+  filter: grayscale(100%); /* reduce color to grayscale */
   font-size: 80%;
-  width: 7.5in;
+  width: 8in;
   max-width: none;
-}
+  padding: 0;
+  margin: 0 auto;
+  }
 
-figure.artwork img {
-  max-width: 90%;
-}
-
+figure.artwork,
 section.author {
   display: none;
-}
+  }
+
+#masthead {
+  margin-top: 0;
+  margin-bottom: .25in;
+  }
+
+#masthead h1 {
+  font-size: 5.5em;
+  }
+
+/* show URLs in links */
+
+.main a[href]:after {
+  content: " (" attr(href) ")";
+  }
