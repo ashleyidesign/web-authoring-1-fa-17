@@ -10,11 +10,13 @@ Write a summary and illustrate an image for the seminal article “[A Dao of Web
 
 ## Work & Rubric
 
+`100 points` (`120 points` total with Extra Credit)
+
 Copy and paste this section into a new task list `issue` within your repo and title it as “Work & Rubric”. [`#tasklist`](https://github.com/blog/1825-task-lists-in-all-markdown-documents)
 
 ### Content First
 
-`20 points`
+`20 points` (`4 points` each)
 
 - [ ] Write a [summary](https://seesparkbox.com/foundry/naming_css_stuff_is_really_hard) of the article, 256 words or fewer in length
 - [ ] Use of [Markdown](https://guides.github.com/features/mastering-markdown/) to show the hierarchy and structure of the content, such as headings and subheadings, and paragraphs and lists
@@ -26,7 +28,7 @@ Copy and paste this section into a new task list `issue` within your repo and ti
 
 ### Semantic Markup
 
-`20 points`
+`20 points` (`4 points` each)
 
 - [ ] Use of section (`header`, `footer`, `section`, etc.), and grouping (`figure`, `p`, `ul`, etc.) elements for chunking content into semantically structured content
 - [ ] Use of `h1`–`h6` for headings and subheadings
@@ -36,20 +38,23 @@ Copy and paste this section into a new task list `issue` within your repo and ti
 
 ### Imagery
 
-`20 points`
+`20 points` (`4 points` each)
 
 - [ ] Size hero image at 960px × 480px (2:1)
   - 960px is the required width, however the height can be shorter than 480px (if necessary)
 - [ ] Size headshot photo, cropped at 256px × 256px (1:1) or un-cropped at a maximum width of 256px wide
-  - Use CSS to crop un-cropped headshot photos to display square
+  - Use of the CSS property `overflow` to crop un-cropped headshot photo
+  - Use of the CSS property `border-radius` to create a circular headshot photo
 - [ ] Save images using Photoshop, export `Save for Web (Legacy)…` hero image as a PNG (`.png`) using the preset `PNG-8 128 Dithered` and headshot photo as a JPG (`.jpg`) using the preset `JPEG High`
   - Name images `hero-image-firstname-lastname.png` and `headshot-firstname-lastname.jpg` (replace `firstname` and `lastname` with your first and last name)
 - [ ] Optimization images using [ImageOptim](https://imageoptim.com/mac)
+  - Hero image should optimize at under 128kb
+  - Headshot photo should optimize at under 64kb
 - [ ] Use of an `img` folder to organize images
 
 ### Style as an Enhancement
 
-`20 points`
+`20 points` (`4 points` each)
 
 - [ ] Use of meaningful CSS class selector names
 - [ ] Author and apply styles for mobile first
@@ -59,7 +64,7 @@ Copy and paste this section into a new task list `issue` within your repo and ti
 
 ### Best Practices
 
-`10 points`
+`10 points` (`2 points` each)
 
 - [ ] When naming things — keep it lowercase, and use a hyphen (`-`) or an underscores (`_`), *not a space* (`%20`), for separating phrases in HTML and CSS, files, folders, etc.
 - [ ] Format HTML and CSS via [DirtyMarkup](https://dirtymarkup.com)
@@ -72,7 +77,7 @@ Copy and paste this section into a new task list `issue` within your repo and ti
 
 ### GitHub
 
-`10 points`
+`10 points` (`5 points` each)
 
 - [ ] Repo should contain only essential files:
   - `README.md`
@@ -107,11 +112,12 @@ Copy and paste this section into a new task list `issue` within your repo and ti
 
 ### Extra Credit
 
-`15 points`
+`20 points` (`5 points` each)
 
 - [ ] Redraw hero image [using Illustrator](https://design.tutsplus.com/tutorials/how-to-create-a-classic-vector-painting-with-watercolor-washes-and-line-art--vector-1481) or Sketch, not in Photoshop, and save as an SVG (`.svg`) `#vector`
 - [ ] Optimization of SVG (`.svg`) using [SVGOMG!](https://jakearchibald.github.io/svgomg/)
 - [ ] Use of the `src` (to embed the `.png`) and `srcset` (to embed the `.svg`) attributes for providing fallback and future-friendly image formats
+- [ ] Test document outline for heading and section rank, [HTML5 Outliner](http://gsnedders.html5.org/outliner/), and update any _Untitled Section_ to display a proper heading (`h1`–`h6`) _See also [heading and section rank](https://www.w3.org/TR/html5/sections.html#rank)_
 
 ## Readings & Resources
 
