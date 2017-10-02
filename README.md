@@ -209,11 +209,12 @@ experience for all users and devices
     - Review paper prototypes/sketches
 - Homework
   - Read: [Responsive Web Design](https://alistapart.com/article/responsive-web-design)
-  - Write a haiku based on Ethan Marcotte’s seminal article [Responsive Web Design](https://alistapart.com/article/responsive-web-design); three lines, 5-7-5 syllable structure, with the first and last lines having 5 syllables, and the middle line having 7 `markdown`
+  - Write a haiku based on Ethan Marcotte’s seminal article “[Responsive Web Design](https://alistapart.com/article/responsive-web-design)”; three lines, 5-7-5 syllable structure, with the first and last lines having 5 syllables, and the middle line having 7 `markdown`
   - Paper prototypes/sketches
     - Print, cut-and-paste, photocopy (25–400% [for scale changes]), etc. and layout actual type (headings, paragraphs, numbers, etc.) set in your web safe font on paper
 
 #### 10/05 Thursday
+
 - Ebb & Flow
   - Final review (round 2)
 - Content First
