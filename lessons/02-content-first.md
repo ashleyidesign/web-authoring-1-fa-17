@@ -1,8 +1,12 @@
 # Content First
 
-> 90 percent of design is typography. And the other 90 percent is whitespace.
+> Content precedes design. Design in the absence of content is not design, it’s decoration.
 >
 > —[Jeffrey Zeldman](https://studio.zeldman.com), designer, writer, and publisher
+
+> The Web is 90% text, so let’s style it first.
+>
+> —[Jeremy Thomas](http://marksheet.io/css-text.html), CSS guru and author of [MarkSheet](http://marksheet.io)
 
 > Choosing a typeface is not typography.
 >
