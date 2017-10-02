@@ -166,15 +166,6 @@ Copy and paste this section into a new task list `issue` within your repo and ti
 - [ ] → [Malcolm Gladwell Looks At Technology Innovations](http://www.npr.org/2011/05/16/136368716/malcolm-gladwell-looks-at-technology-innovations) `audio`
 - [Creation Myth](http://www.newyorker.com/magazine/2011/05/16/creation-myth)
 
-### HTML & CSS Reference
-
-- [HTML5 Element Index](http://html5doctor.com/#glossary)
-- [Mozilla Developer Network (MDN) Web Docs](https://developer.mozilla.org/en-US/)
-- [Learn to Code HTML & CSS](http://learn.shayhowe.com/html-css/)
-- [Marksheet](http://marksheet.io) A Free HTML & CSS Tutorial
-- [HTML Reference](http://htmlreference.io)
-- [CSS Reference](http://cssreference.io)
-
 ### HTML Basics
 
 - [Getting to Know HTML](http://learn.shayhowe.com/html-css/getting-to-know-html/)
@@ -197,7 +188,26 @@ Copy and paste this section into a new task list `issue` within your repo and ti
 
 - [CSS Box Model](https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS/Box_model)
 - [Opening the Box Model](http://learn.shayhowe.com/html-css/opening-the-box-model/)
+- [CSS Box Model Properties](http://cssreference.io/box-model/)
 - [What’s the Deal with Collapsible Margins?](https://bitsofco.de/collapsible-margins/)
+
+### CSS Typography
+
+- [CSS Text](http://marksheet.io/css-text.html)
+- [CSS Typography Properties](http://cssreference.io/typography/)
+
+### HTML & CSS Reference
+
+- [HTML5 Element Index](http://html5doctor.com/#glossary)
+- [Mozilla Developer Network (MDN) Web Docs](https://developer.mozilla.org/en-US/)
+- [Learn to Code HTML & CSS](http://learn.shayhowe.com/html-css/)
+- [Marksheet](http://marksheet.io) A Free HTML & CSS Tutorial
+- [HTML Reference](http://htmlreference.io)
+- [CSS Reference](http://cssreference.io)
+
+### Best Practices
+
+- [Unitless line-heights](http://meyerweb.com/eric/thoughts/2006/02/08/unitless-line-heights/)
 
 ### Semantics, Syntax, and Vocabulary
 
@@ -207,6 +217,14 @@ Copy and paste this section into a new task list `issue` within your repo and ti
 - [HTML & CSS Vocabulary](http://apps.workflower.fi/vocabs/)
 - [CSS Vocabulary](http://nimbupani.com/css-vocabulary.html)
 - [Style Manual](http://stylemanual.org)
+
+### Print Style Sheets
+
+- [ ] → [I Totally Forgot About Print Style Sheets](https://uxdesign.cc/i-totally-forgot-about-print-style-sheets-f1e6604cfd6)
+
+### Media Queries
+
+- [ ] → [Designing for Every Screen](http://marksheet.io/css-responsiveness.html)
 
 ### HTML & CSS Validation
 
@@ -219,6 +237,6 @@ Copy and paste this section into a new task list `issue` within your repo and ti
 - [HTML Arrows](https://www.toptal.com/designers/htmlarrows/) A delightful reference for HTML Symbols, Entities and ASCII Character Codes
 - [Butterick’s Practical Typography](http://practicaltypography.com)
 
-## Accessibility
+### Accessibility
 
 - [ ] → [Alt Text is Part of Your Site’s Content](http://centercentre.com/blog/2016-06-30-alt-text-is-part-of-your-sites-content)
