@@ -319,7 +319,8 @@ Pick a *free* flavor…
 ### Digital Design
 
 - [Illustrator](https://www.adobe.com/products/illustrator.html)
-- [Sketch](https://sketchapp.com/store/edu/) (50% off for students)
+- [Sketch](https://sketchapp.com/store/edu/) (Mac only; 50% off for students)
+- [Inkscape](https://inkscape.org)
 
 ### Image Optimization
 
