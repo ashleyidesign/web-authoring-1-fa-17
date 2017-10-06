@@ -34,6 +34,31 @@ Web Authoring 1 is an introductory course to authoring and publishing content fo
 
 ## Criteria for Credit
 
+### Competencies
+
+#### Formal
+
+- Proficiency in writing semantic and valid HTML and CSS
+- Proficiency in the use of semantic and decorative style for formal and expressive typography and design
+- Proficiency in designing ease-to-use “don’t make me think” navigation
+- Proficiency in designing readable and accessible content for sighted and non-sighted users
+- Proficiency in the use of color for accessible and inclusive communication for sighted and non-sighted users
+
+#### Technical
+
+- Proficiency in the technology and tools for digital design, designing in the browser, and publishing for web
+  - Illustrator, Sketch, or Inkscape, maybe InDesign, but *not* Photoshop
+  - Text editor for authoring Markdown, HTML, and CSS
+  - Browser developer tools for inspecting and testing
+  - GitHub for development and publishing
+- Proficiency in producing both low and high fidelity paper and digital comps for presentation
+
+#### Conceptual
+
+- Proficiency in separating content and structure from style and behavior
+- Proficiency in using a mobile first and progressive enhancement design approach
+- Proficiency in designing for the reader; designing an accessible and inclusive experience for all users and devices
+
 ### Attendance
 
 Come to class. Don’t miss class, but if you need to, let me know, in advance via Slack or email; *not* 10 or 15 minutes before the start of class, but at least an hour, if you can. I’ll do the same. *Thank-you.*
@@ -41,35 +66,6 @@ Come to class. Don’t miss class, but if you need to, let me know, in advance v
 Also, if you’re *illin’* and need to stay home, you can still attend class, via Google Hangouts; watch the lecture, and check-in with me via Slack. I’m flexible, just let me know what’s going on, and let’s work remotely when it makes sense.
 
 Bottom line, don’t miss more than six (6) classes; that’s missing 3 weeks of class, and will result in a lower grade by at least 20%. For example, with six (6) absences, an “A” (94–100%) becomes a “B-” (80–82%). And, if you think you may miss more than six (6) classes, consider dropping, else you may receive a final grade of No Credit (NC).
-
-### Competencies
-
-#### Formal
-
-- Proficiency in writing semantic and valid HTML and CSS
-- Proficiency in the use of semantic and decorative style for formal and
-expressive typography and design
-- Proficiency in designing ease-to-use “don’t make me think” navigation
-- Proficiency in designing readable and accessible content for sighted and non-sighted users
-- Proficiency in the use of color for accessible and inclusive communication for
-sighted and non-sighted users
-
-#### Technical
-
-- Proficiency in the technology and tools for digital design, designing in the browser, and publishing for web
-  - Illustrator or Sketch, maybe InDesign, but *not* Photoshop
-  - Text editor for authoring Markdown, HTML, and CSS
-  - Browser developer tools for inspecting and testing
-  - GitHub for development and publishing
-- Proficiency in producing both low and high fidelity comps for presentation
-  - Paper and digital
-
-#### Conceptual
-
-- Proficiency in separating content and structure from style and behavior
-- Proficiency in using a mobile first and progressive enhancement design approach
-- Proficiency in designing for the reader; designing an accessible and inclusive
-experience for all users and devices
 
 ## Support Services
 
