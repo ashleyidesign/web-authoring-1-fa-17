@@ -24,7 +24,7 @@ Copy and paste this section into a new task list `issue` within your repo and ti
   - First, solve the illustration; second, fuss over the visual style
   - Scan in or capture as a photo; edit and save for web in Photoshop (see [Imagery](#imagery) for details)
 - [ ] Provide an “About the Author” section with [a brief bio](https://alistapart.com/author/johnallsopp), 2–3 sentences in length, and headshot photo `#selfie`
-- [ ] Provide a “Read Full Article” link, to the original, at the end of the summary
+- [ ] Provide a “read the full article” link, to the original, at the end of the summary
 
 ### Semantic Markup
 
