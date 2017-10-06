@@ -14,7 +14,7 @@
 
 ## Brief
 
-Design a modern day type specimen website, promoting a not so “modern”, but influential typeface that defined the early days of the web and continues to do so in today's web.
+Design a modern day type specimen single-page website for a not so modern web safe font, make it “cool” again, and showcase that accessible type, color, and layout is not only *cool*, but a *best practice* for inclusive and responsible web design.
 
 Select a web safe font; show off its styles and weights: italic, normal, and bold; transform its cases: upper, lower, and even small-caps; change its size: 1em to 10em, smaller to larger; and even a swash such as a drop capital or an ornamental character such as an ampersand.
 
