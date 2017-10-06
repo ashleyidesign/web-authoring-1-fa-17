@@ -208,6 +208,7 @@ Bottom line, don’t miss more than six (6) classes; that’s missing 3 weeks of
   - Write a haiku based on Ethan Marcotte’s seminal article “[Responsive Web Design](https://alistapart.com/article/responsive-web-design)”; three lines, 5-7-5 syllable structure, with the first and last lines having 5 syllables, and the middle line having 7 `markdown`
   - Paper prototypes/sketches
     - Print, cut-and-paste, photocopy (25–400% [for scale changes]), etc. and layout actual type (headings, paragraphs, numbers, etc.) set in your web safe font on paper
+      - For color use colored markers or colored paper (Color-aid or construction)
 
 #### 10/05 Thursday
 
@@ -221,7 +222,8 @@ Bottom line, don’t miss more than six (6) classes; that’s missing 3 weeks of
   - Responsive Haiku — single-webpage using web safe fonts and colors, and media queries
   - Paper prototypes/sketches
     - Print, cut-and-paste, photocopy (25–400% [for scale changes]), etc. and layout actual type (headings, paragraphs, numbers, etc.) set in your web safe font on paper
-    - For color use colored markers or colored paper (Color-aid or construction)
+      - For color use colored markers or colored paper (Color-aid or construction)
+    - Markup each section by mapping each content type to the best possible structural and text-level HTML element
   - “Responsive Web Design”
       - Read: Chapter 2 — The Flexible Grid
 
