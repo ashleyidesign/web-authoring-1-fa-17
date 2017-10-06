@@ -186,7 +186,7 @@ experience for all users and devices
 - Homework
   - Ebb & Flow — prep for final review and completion
     - See "[Work & Rubric](lessons/01-ebb-and-flow.md/#work--rubric)" for details
-    - [Ebb & Flow demo](https://github.com/jgagne/web-authoring-1-fa-17/tree/master/demos/ebb-and-flow) for comparison and guidance; [live preview](https://github.com/jgagne/web-authoring-1-fa-17/tree/master/demos/ebb-and-flow)
+    - [Ebb & Flow demo](https://github.com/jgagne/web-authoring-1-fa-17/tree/master/demos/ebb-and-flow) for comparison and guidance; [live preview](https://jgagne.github.io/web-authoring-1-fa-17/demos/ebb-and-flow/)
   - Content First
     - Select a [web safe font](lessons/02-content-first.md/#web-safe-fonts)
     - Paper prototype/sketch of single-page layout (mobile first)
