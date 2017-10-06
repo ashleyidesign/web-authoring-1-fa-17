@@ -67,6 +67,7 @@ Copy and paste this section into a new task list `issue` within your repo and ti
 ### Type Specimens
 
 - [ ] → [Typographically Speaking: A Conversation with Matthew Carter](https://vimeo.com/140351682) `video`
+- [ ] → [Matthew Carter: My Life in Typefaces](https://www.ted.com/talks/matthew_carter_my_life_in_typefaces) `video`
 - [Channel Verdana](https://www.microsoft.com/typography/web/fonts/verdana/)
 - [Alma Mono](http://almamono.com)
 - [Tofino](http://tofino.losttype.com)
@@ -82,10 +83,11 @@ Copy and paste this section into a new task list `issue` within your repo and ti
 
 - [Type Terms](https://www.supremo.tv/typeterms/)
 
-### Color Contrast
+### Web Safe Colors & Contrast
 
+- [ ] →  [Web Safe Colors](http://websafecolors.info)
 - [ ] → [What is Color Contrast?](http://a11yproject.com/posts/what-is-color-contrast/)
-- [Color Accessibility Workflows](https://alistapart.com/article/color-accessibility-workflows)
 - [ ] → [Accessible Colors](http://accessible-colors.com)
+- [ ] → [Color Safe](http://colorsafe.co)
 - [Colour Contrast Analyser](https://www.paciellogroup.com/resources/contrastanalyser/)
-- [Color Safe](http://colorsafe.co)
+- [Color Accessibility Workflows](https://alistapart.com/article/color-accessibility-workflows)
