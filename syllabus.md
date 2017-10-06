@@ -7,7 +7,7 @@
 - Tuesday & Thursday, 6:30–9:10 p.m., H-305
 - Instructor: Justin Gagne
 - Email: `justin.gagne@montserrat.edu`
-- Office Hours: On campus most Fridays after 2 p.m. until 5 p.m.; email or slack in advance to schedule time.
+- Office Hours: On campus, most Fridays after 2 p.m. until 5 p.m.; email or slack in advance to schedule time.
 - Work: Design lead for [Gymnasium](https://thegymnasium.com) at [Aquent](https://aquent.com) in Boston, MA.
 
 - - -
@@ -50,7 +50,7 @@ Web Authoring 1 is an introductory course to authoring and publishing content fo
   - Text editor for authoring Markdown, HTML, and CSS
   - Browser developer tools for inspecting and testing
   - GitHub for development and publishing
-- Proficiency in producing both low and high fidelity paper and digital comps for presentation
+- Proficiency in producing both low and high-fidelity paper and digital comps for presentation
 
 #### Conceptual
 
@@ -69,7 +69,7 @@ Bottom line, don’t miss more than six (6) classes; that’s missing 3 weeks of
 ## Support Services
 
 - For help with writing, studying, and time management, email: `thewritingstudio@montserrat.edu`
-- Under the guidance of section 504 of the Rehabilitation Act of 1973 and the Americans with Disabilities Act Amendments Act of 2008 (ADAAA),it is the priorty of the college to create an equitable and accessible learning environment for you.
+- Under the guidance of section 504 of the Rehabilitation Act of 1973 and the Americans with Disabilities Act Amendments Act of 2008 (ADAAA), it is the priority of the college to create an equitable and accessible learning environment for you.
 - If you're registered with the Disability Services Office and approved to use accommodations, let's find a time to talk about how you might use those accommodations in this course.
 - If you have questions about disability services or accommodations, please contact the Writing Studio.
   - Location: 248 Cabot Street, Room 207
@@ -80,11 +80,11 @@ Bottom line, don’t miss more than six (6) classes; that’s missing 3 weeks of
 1. [Ebb & Flow](lessons/01-ebb-and-flow.md)
     - Write a summary and illustrate an image for the seminal article “[A Dao of Web Design](https://alistapart.com/article/dao)” by John Allsopp, then as a class, we’ll work together to develop a responsive single-page website with semantic markup, flexible images, and a fluid grid.
 2. [Content First](lessons/02-content-first.md)
-    - Design a modern day type specimen single-page website for a not so modern web safe font, make it “cool” again, and showcase that accessible type, color, and layout is not only *cool*, but a *best practice* for inclusive and responsible web design.
+    - Design a modern-day type specimen single-page website for a not so modern web safe font, make it “cool” again, and showcase that accessible type, color, and layout is not only *cool*, but a *best practice* for inclusive and responsible web design.
 3. [Device Agnostic](lessons/03-device-agnostic.md)
     - Deconstruct a single or series of physical “hold-in-your-hands” printed page(s), heavy on typography and white-space, light on imagery and decoration, and develop a responsive web friendly version for both screen and print.
 4. [Single Serving](lessons/04-single-serving.md)
-    - Design a modern responsive single serving website — a single-page with a single-theme based on self generated content; focusing on type, color, image, and layout; as well as rad (reliable, authentic, and direct) voice and tone, visual design, and user experience.
+    - Design a modern responsive single serving website — a single-page with a single-theme based on self-generated content; focusing on type, color, image, and layout; as well as rad (reliable, authentic, and direct) voice and tone, visual design, and user experience.
 5. Final (TBA)
 
 ## Software
@@ -127,4 +127,3 @@ A course developed by Justin Gagne.
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png" /></a>
 
 This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
-
