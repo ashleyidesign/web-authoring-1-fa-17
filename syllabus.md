@@ -1,3 +1,18 @@
+<style scoped>
+
+#course-description,
+#attendance,
+#lessons,
+#software {
+  page-break-before: always;
+  }
+
+#cc-logo {
+  display: none;
+  }
+
+</style>
+
 `GD 256`
 
 # Web Authoring 1: Markup & Style
@@ -124,6 +139,6 @@ A course developed by Justin Gagne.
 
 ## License
 
-<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png" /></a>
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/" id="cc-logo"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png"></a>
 
 This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
