@@ -59,7 +59,6 @@ Copy and paste this section into a new task list `issue` within your repo and ti
 
 ### Web Safe Fonts
 
-- [Interview with Matthew Carter](http://playgallery.org/stories/carter/)
 - [ ] → [The Myth of web-safe fonts](http://code.stephenmorley.org/html-and-css/the-myth-of-web-safe-fonts/)
 - [CSS Font Stack](http://www.cssfontstack.com) (`gte 90%` support on both Mac & Win)
 - [CSS Web Safe Fonts](http://www.ianbesler.com/fonts/)
@@ -91,3 +90,9 @@ Copy and paste this section into a new task list `issue` within your repo and ti
 - [ ] → [Color Safe](http://colorsafe.co)
 - [Colour Contrast Analyser](https://www.paciellogroup.com/resources/contrastanalyser/)
 - [Color Accessibility Workflows](https://alistapart.com/article/color-accessibility-workflows)
+
+### Matthew Carter
+
+- [ ] → [Typographically Speaking: A Conversation with Matthew Carter](https://vimeo.com/140351682) `video`
+- [ ] → [Matthew Carter: My Life in Typefaces](https://www.ted.com/talks/matthew_carter_my_life_in_typefaces) `video`
+- [Interview with Matthew Carter](http://playgallery.org/stories/carter/)
