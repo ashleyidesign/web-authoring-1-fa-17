@@ -63,6 +63,12 @@ Copy and paste this section into a new task list `issue` within your repo and ti
 - [CSS Font Stack](http://www.cssfontstack.com) (`gte 90%` support on both Mac & Win)
 - [CSS Web Safe Fonts](http://www.ianbesler.com/fonts/)
 
+### On Typography
+
+- [ ] → [A Five Minutes Guide to Better Typography](http://pierrickcalvez.com/journal/a-five-minutes-guide-to-better-typography)
+- [ ] → [How Typeface Influences the Way We Read and Think](http://theweek.com/articles/463196/how-typeface-influences-way-read-think)
+- [ ] → [Typefaces for Dyslexia](https://bdatech.org/what-technology/typefaces-for-dyslexia/)
+
 ### Type Specimens
 
 - [ ] → [Type Specimens (Curated from around the web)](https://typespecimens.io)
@@ -82,6 +88,17 @@ Copy and paste this section into a new task list `issue` within your repo and ti
 
 - [Type Terms](https://www.supremo.tv/typeterms/)
 
+### Trebuchet MS
+
+- [The Brief Story of Trebuchet MS](https://www.fonts.com/font/microsoft-corporation/trebuchet-ms/story)
+- [Microsoft's In-Depth Story of Trebuchet MS](https://www.microsoft.com/typography/fonts/family.aspx?FID=2)
+
+### Matthew Carter
+
+- [ ] → [Typographically Speaking: A Conversation with Matthew Carter](https://vimeo.com/140351682) `video`
+- [ ] → [Matthew Carter: My Life in Typefaces](https://www.ted.com/talks/matthew_carter_my_life_in_typefaces) `video`
+- [Interview with Matthew Carter](http://playgallery.org/stories/carter/)
+
 ### Web Safe Colors & Contrast
 
 - [ ] →  [Web Safe Colors](http://websafecolors.info)
@@ -91,8 +108,3 @@ Copy and paste this section into a new task list `issue` within your repo and ti
 - [Colour Contrast Analyser](https://www.paciellogroup.com/resources/contrastanalyser/)
 - [Color Accessibility Workflows](https://alistapart.com/article/color-accessibility-workflows)
 
-### Matthew Carter
-
-- [ ] → [Typographically Speaking: A Conversation with Matthew Carter](https://vimeo.com/140351682) `video`
-- [ ] → [Matthew Carter: My Life in Typefaces](https://www.ted.com/talks/matthew_carter_my_life_in_typefaces) `video`
-- [Interview with Matthew Carter](http://playgallery.org/stories/carter/)
