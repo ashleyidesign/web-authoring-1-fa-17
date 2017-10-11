@@ -66,8 +66,8 @@ Copy and paste this section into a new task list `issue` within your repo and ti
 
 ### Type Specimens
 
-- [ ] → [Typographically Speaking: A Conversation with Matthew Carter](https://vimeo.com/140351682) `video`
-- [ ] → [Matthew Carter: My Life in Typefaces](https://www.ted.com/talks/matthew_carter_my_life_in_typefaces) `video`
+- [ ] → [Type Specimens (Curated from around the web)](https://typespecimens.io)
+- [Daily Type Specimen](http://dailytypespecimen.com/archive)
 - [Channel Verdana](https://www.microsoft.com/typography/web/fonts/verdana/)
 - [Alma Mono](http://almamono.com)
 - [Tofino](http://tofino.losttype.com)
