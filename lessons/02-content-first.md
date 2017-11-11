@@ -20,6 +20,98 @@ Select a web safe font; show off its styles and weights: italic, normal, and bol
 
 Focus on typographic color: style, weight, size, and spacing, before reversed type, foreground and background color. Let the type talk first, then enhance by layering on accessible color to better communicate an aesthetic or emotion for color blind, low vision, and sighted users alike.
 
+## Work & Rubric
+
+`100 points` (`120 points` total with Extra Credit)
+
+Copy and paste this section into a new task list `issue` within your repo and title it as “Work & Rubric”. [`#tasklist`](https://github.com/blog/1825-task-lists-in-all-markdown-documents)
+
+### Web Safe Typography
+
+`30 points` (`10 points` each)
+
+- [ ] Use of only a single web safe font along with its respective generic font genre name as a fallback
+ - See [CSS Font Stack](http://www.cssfontstack.com) (`gte 90%` support on both Mac & Win)
+ - See [Font Family Reunion](http://fontfamily.io) for compatibility across various devices
+- [ ] Use `em` values for better web typography; `px` to `em` via [Pixem](http://matthewkosloski.me/labs/pixem/)
+- [ ] Use of unitless `line-height` values, for example: `line-height: 1.15;`
+  - See [Unitless line-heights](http://meyerweb.com/eric/thoughts/2006/02/08/unitless-line-heights/)
+
+### Web Safe Colors
+
+`10 points` (`5 points` each)
+
+- [ ] Use of only [web safe colors](http://websafecolors.info); short hex color values are preferred, for example: `#663399` becomes `#639`
+- [ ] Web safe color combinations must be [AA compliant](http://accessible-colors.com)
+
+### Navigation
+
+`20 points` (`5 points` each)
+
+- [ ] Use of HTML `nav` element for primary internal navigation
+- [ ] Navigation links to the following suggested sections, naming and order can be modified:
+  - About
+  - Characters
+  - Styles & Weights
+  - Try Me
+  - Usage (optional)
+  - Designer
+  - Resources (optional)
+- [ ] Style all links; active `a` and hover `a:hover` states
+- [ ] Provide at least one "Back to Top, Menu, Navigation, etc." link
+  - Maybe use an arrow? See [HTML Arrows](https://www.toptal.com/designers/htmlarrows/)
+
+### Layout
+
+`10 points` (`10 points` each)
+
+- [ ] Use of media queries to provide responsive layout considerations for navigation, sections, typography, etc. for small to wider screens
+
+### Best Practices
+
+`20 points` (`4 points` each)
+
+- [ ] When naming things — keep it lowercase, and use a hyphen (`-`) or an underscores (`_`), *not a space* (`%20`), for separating phrases in HTML and CSS, files, folders, etc.
+- [ ] Format HTML and CSS via [DirtyMarkup](https://dirtymarkup.com)
+  - `BBEdit` > `Markup` > `Utilities` > `Format…`
+- [ ] Use CSS shorthand, [Shrthnd](http://shrthnd.volume7.io), for `font`, `margin`, et al. properties for brevity
+- [ ] Use `em` values instead of `px` values, except for declaring a hairline rule (`border-top: 1px solid #000;`); `px` to `em` via [Pixem](http://matthewkosloski.me/labs/pixem/)
+- [ ] Validate markup and style; fix all errors; resolve warnings (if possible)
+  - [HTML Validation](https://validator.w3.org)
+  - [CSS Validation](https://jigsaw.w3.org/css-validator/)
+
+### GitHub
+
+`10 points` (`5 points` each)
+
+- [ ] Repo should contain only essential files:
+  - `README.md`
+    - Include a heading (title) and paragraph (description) for the project
+   - `index.html` (HTML with added metadata, structure, and CSS)
+  - `css` (folder containing external style sheets)
+    - For example: `main.css` and `print.css`
+  - `img` (folder containing images)
+    - For example: `courier-typewriter.png` and `headshot-matthew-carter.jpg`
+  - `versions` (optional folder containing tests, experiments, work in progress, etc.)
+    - For example: `content-first-test-1.html`
+  - `refs` (optional folder containing reference images [sketches, screenshots, etc.])
+    - For example: `layout-1.png`
+    - Or include a list of references (links) in the `README.md`
+- [ ] Add a [description and url](https://i.imgur.com/CexeWBQ.gif) to your GitHub repo
+
+- - -
+
+### Extra Credit
+
+`20 points` (`5 points` each)
+
+- [ ] Optimization of images; JPG (`.jpg`) and PNG (`.png`) using [ImageOptim](https://imageoptim.com/mac) and SVG (`.svg`) using [SVGOMG!](https://jakearchibald.github.io/svgomg/)
+- [ ] Test document outline for heading and section rank, [HTML5 Outliner](http://gsnedders.html5.org/outliner/), and update any _Untitled Section_ to display a proper heading (`h1`–`h6`) _See also [heading and section rank](https://www.w3.org/TR/html5/sections.html#rank)_
+- [ ] Use of HTML viewport meta tag to control layout on mobile browsers
+  - `<meta name="viewport" content="width=device-width, intitial-scale=1">`
+- [ ] Use of vendor prefixed CSS `-webkit-text-size-adjust: 100%;` to prevent adjustments of font size after orientation changes in IE on Windows Phone and in iOS
+  - See [normalize.css](https://github.com/h5bp/html5-boilerplate/blob/6180cd90fca68568353c20cc7f91f5d653583e7f/dist/css/normalize.css#L14-L15)
+
 ## Web Safe Fonts
 
 Select from the safest, most widely supported system fonts on Mac and Win, of the web safe fonts.
@@ -68,6 +160,7 @@ Copy and paste this section into a new task list `issue` within your repo and ti
 - [ ] → [A Five Minutes Guide to Better Typography](http://pierrickcalvez.com/journal/a-five-minutes-guide-to-better-typography)
 - [ ] → [How Typeface Influences the Way We Read and Think](http://theweek.com/articles/463196/how-typeface-influences-way-read-think)
 - [ ] → [Typefaces for Dyslexia](https://bdatech.org/what-technology/typefaces-for-dyslexia/)
+- [Fonts in Use](https://fontsinuse.com)
 
 ### Type Specimens
 
