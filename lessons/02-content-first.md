@@ -22,7 +22,7 @@ Focus on typographic color: style, weight, size, and spacing, before reversed ty
 
 ## Work & Rubric
 
-`100 points` (`125 points` total with Extra Credit)
+`100 points` (`130 points` total with Extra Credit)
 
 Copy and paste this section into a new task list `issue` within your repo and title it as “Work & Rubric”. [`#tasklist`](https://github.com/blog/1825-task-lists-in-all-markdown-documents)
 
@@ -103,7 +103,7 @@ Copy and paste this section into a new task list `issue` within your repo and ti
 
 ### Extra Credit
 
-`25 points` (`5 points` each)
+`30 points` (`5 points` each)
 
 - [ ] Optimization of images; JPG (`.jpg`) and PNG (`.png`) using [ImageOptim](https://imageoptim.com/mac) and SVG (`.svg`) using [SVGOMG!](https://jakearchibald.github.io/svgomg/)
 - [ ] Test document outline for heading and section rank, [HTML5 Outliner](http://gsnedders.html5.org/outliner/), and update any _Untitled Section_ to display a proper heading (`h1`–`h6`) _See also [heading and section rank](https://www.w3.org/TR/html5/sections.html#rank)_
@@ -111,6 +111,9 @@ Copy and paste this section into a new task list `issue` within your repo and ti
   - `<meta name="viewport" content="width=device-width, intitial-scale=1">`
 - [ ] Use of vendor prefixed CSS `-webkit-text-size-adjust: 100%;` to prevent adjustments of font size after orientation changes in IE on Windows Phone and in iOS
   - See [normalize.css](https://github.com/h5bp/html5-boilerplate/blob/6180cd90fca68568353c20cc7f91f5d653583e7f/dist/css/normalize.css#L14-L15)
+- [ ] Add a `rel=canonical` link in your webpage to suggest a strong hint to search engines to index the original cite source content. For example: `<link rel="canonical" href="https://en.wikipedia.org/wiki/Verdana">`
+  - **Note** — Specify no more than one `rel=canonical` for a page. When more than one is specified, all rel=canonicals will be ignored.
+  - See [5 common mistakes with rel=canonical](https://webmasters.googleblog.com/2013/04/5-common-mistakes-with-relcanonical.html)
 - [ ] Add a link to your Haiku exercise in your `README.md` under the subheading of "Warm-Up" (It’s a good demo to show off)
 
 ## Web Safe Fonts
