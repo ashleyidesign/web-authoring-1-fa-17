@@ -1,0 +1,118 @@
+/* ---------------------------
+
+Resources
+
+0. Google Fonts
+https://fonts.google.com
+
+1. Webfont Generator
+https://www.fontsquirrel.com/tools/webfont-generator
+
+2. Font Weight Values
+http://cssreference.io/typography/#font-weight
+
+3. Font Display
+https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display
+
+4. The Web Fonts: Preloaded
+https://www.zachleat.com/web/preload/
+
+--------------------------- */
+
+/* --- Barlow Semi Condensed --- */
+
+/* bold */
+
+@font-face {
+  font-family: "Barlow Semi Condensed";
+  src: url("../fonts/barlow-semi-condensed/barlowsemicondensed-bold-webfont.woff2") format("woff2"),
+       url("../fonts/barlow-semi-condensed/barlowsemicondensed-bold-webfont.woff") format("woff");
+  font-weight: 700;
+  font-style: normal;
+  font-display: fallback;
+  }
+
+/* regular */
+
+@font-face {
+  font-family: "Barlow Semi Condensed";
+  src: url("../fonts/barlow-semi-condensed/barlowsemicondensed-regular-webfont.woff2") format("woff2"),
+       url("../fonts/barlow-semi-condensed/barlowsemicondensed-regular-webfont.woff") format("woff");
+  font-weight: 400;
+  font-style: normal;
+  font-display: fallback;
+  }
+
+/* thin */
+
+@font-face {
+  font-family: "Barlow Semi Condensed";
+  src: url("../fonts/barlow-semi-condensed/barlowsemicondensed-thin-webfont.woff2") format("woff2"),
+       url("../fonts/barlow-semi-condensed/barlowsemicondensed-thin-webfont.woff") format("woff");
+  font-weight: 100;
+  font-style: normal;
+  font-display: fallback;
+  }
+
+/* --- html / body --- */
+
+html {
+  font: 100%/1.15;
+  }
+
+body {
+  width: 90%;
+  max-width: 60em;
+  margin: 0 auto;
+  }
+
+/* --- typography --- */
+
+#banner h1 {
+  font: bold 3em/1.15 "Barlow Semi Condensed", "Trebuchet MS", sans-serif;
+  margin-top: 1em;
+  margin-bottom: 0;
+  }
+
+#banner p {
+  font: 100 3em/1.15 "Barlow Semi Condensed", "Trebuchet MS", sans-serif;
+  margin-top: 0;
+  margin-bottom: 0;
+  }
+
+p {
+  font: 1.1em/1.5 "Georgia", serif;
+  margin-top: 1.5em;
+  margin-bottom: 1.5em;
+  }
+
+/* --- layout breakpoints --- */
+
+/* overall scale changes */
+
+@media (min-width: 36em) {
+
+body {
+  font-size: 125%;
+  max-width: 50em;
+  }
+
+}
+
+@media (min-width: 48em) {
+
+body {
+  font-size: 150%;
+  max-width: 40em;
+  }
+
+}
+
+@media (min-width: 60em) {
+
+body {
+  font-size: 175%;
+  max-width: 34.285714285714286em;
+  }
+
+}
