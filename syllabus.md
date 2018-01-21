@@ -17,13 +17,13 @@
 
 # Web Authoring 1: Markup & Style
 
-- [Syllabus](https://github.com/jgagne/web-authoring-1-fa-17) (on GitHub)
-- [Slack](https://wa1-fa17-mca.slack.com) — Where Work Happens™
-- Tuesday & Thursday, 6:30–9:10 p.m., H-305
-- Instructor: Justin Gagne
-- Email: `justin.gagne@montserrat.edu`
-- Office Hours: On campus, most Fridays after 2 p.m. until 5 p.m.; email or slack in advance to schedule time.
-- Work: Design lead for [Gymnasium](https://thegymnasium.com) at [Aquent](https://aquent.com) in Boston, MA.
+- [Syllabus](https://github.com/ashleyidesign/web-authoring-1-sp-18) (on GitHub)
+- [Slack](https://webauthoring2018.slack.com) — Where Work Happens™
+- Monday & Wednesday, 6:30–9:10 p.m., H-305
+- Instructor: Ashley Hill
+- Email: `ashley.hill@montserrat.edu`
+- Office Hours: Generally available after 3pm. Email or slack to schedule time.
+- Work: [Freelance web designer](https://www.ashleyidesign.com) and marketing consultant.
 
 - - -
 
@@ -75,9 +75,9 @@ Web Authoring 1 is an introductory course to authoring and publishing content fo
 
 ### Attendance
 
-Come to class. Don’t miss class, but if you need to, let me know, in advance via Slack or email; *not* 10 or 15 minutes before the start of class, but at least an hour, if you can. I’ll do the same. *Thank-you.*
+Come to class. Don’t miss class, but if you need to, let me know at least an hour in advance via Slack or email; *not* 10 or 15 minutes before the start of class. I’ll do the same. *Thank-you.*
 
-Also, if you’re *illin’* and need to stay home, you can still attend class, via Google Hangouts; watch the lecture, and check-in with me via Slack. I’m flexible, just let me know what’s going on, and let’s work remotely when it makes sense.
+Also, if you’re ill and need to stay home, you can still attend class via Google Hangouts; watch the lecture, and check-in with me via Slack. I’m flexible, just let me know what’s going on, and let’s work remotely when it makes sense.
 
 Bottom line, don’t miss more than six (6) classes; that’s missing 3 weeks of class, and will result in a lower grade by at least 20%. For example, with six (6) absences, an “A” (94–100%) becomes a “B-” (80–82%). And, if you think you may miss more than six (6) classes, consider dropping, else you may receive a final grade of No Credit (NC).
 
@@ -135,7 +135,7 @@ Pick a *free* flavor…
 
 ## Author
 
-A course developed by Justin Gagne.
+A course developed by Justin Gagne. Updated as needed by Ashley Hill.
 
 ## License
 
