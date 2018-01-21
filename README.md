@@ -318,7 +318,7 @@ Pick a *free* flavor…
 - [Sketch](https://sketchapp.com/store/edu/) (Mac only; 50% off for students)
 - [Inkscape](https://inkscape.org)
 
-### Image Optimization
+### Image Optimization 
 
 - [ImageOptim](https://imageoptim.com/mac) (Mac only)
 - [SVGOMG!](https://jakearchibald.github.io/svgomg/)
