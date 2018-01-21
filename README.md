@@ -2,13 +2,13 @@
 
 # Web Authoring 1: Markup & Style
 
-- [Syllabus](https://github.com/jgagne/web-authoring-1-fa-17) (on GitHub)
-- [Slack](https://wa1-fa17-mca.slack.com) — Where Work Happens™
-- Tuesday & Thursday, 6:30–9:10 p.m., H-305
-- Instructor: Justin Gagne
-- Email: `justin.gagne@montserrat.edu`
-- Office Hours: On campus, most Fridays after 2 p.m. until 5 p.m.; email or slack in advance to schedule time.
-- Work: Design lead for [Gymnasium](https://thegymnasium.com) at [Aquent](https://aquent.com) in Boston, MA.
+- [Syllabus](https://github.com/ashleyidesign/web-authoring-1-sp-18) (on GitHub)
+- [Slack](https://webauthoring2018.slack.com) — Where Work Happens™
+- Monday & Wednesday, 6:30–9:10 p.m., H-305
+- Instructor: Ashley Hill
+- Email: `ashley.hill@montserrat.edu`
+- Office Hours: Generally available after 3pm. Email or slack to schedule time.
+- Work: [Freelance web designer](https://www.ashleyidesign.com) and marketing consultant.
 
 - - -
 
@@ -61,9 +61,9 @@ Web Authoring 1 is an introductory course to authoring and publishing content fo
 
 ### Attendance
 
-Come to class. Don’t miss class, but if you need to, let me know, in advance via Slack or email; *not* 10 or 15 minutes before the start of class, but at least an hour, if you can. I’ll do the same. *Thank-you.*
+Come to class. Don’t miss class, but if you need to, let me know at least an hour in advance via Slack or email; *not* 10 or 15 minutes before the start of class. I’ll do the same. *Thank-you.*
 
-Also, if you’re *illin’* and need to stay home, you can still attend class, via Google Hangouts; watch the lecture, and check-in with me via Slack. I’m flexible, just let me know what’s going on, and let’s work remotely when it makes sense.
+Also, if you’re ill and need to stay home, you can still attend class via Google Hangouts; watch the lecture, and check-in with me via Slack. I’m flexible, just let me know what’s going on, and let’s work remotely when it makes sense.
 
 Bottom line, don’t miss more than six (6) classes; that’s missing 3 weeks of class, and will result in a lower grade by at least 20%. For example, with six (6) absences, an “A” (94–100%) becomes a “B-” (80–82%). And, if you think you may miss more than six (6) classes, consider dropping, else you may receive a final grade of No Credit (NC).
 
@@ -90,13 +90,13 @@ Bottom line, don’t miss more than six (6) classes; that’s missing 3 weeks of
 
 ## Schedule
 
-15 weeks; 30 classes.
+14 weeks; 28 classes.
 
 - - -
 
 ### Ebb & Flow
 
-#### 08/31 Thursday
+#### 01/22 Monday
 
 - First day of class
     - Introductions
@@ -106,21 +106,19 @@ Bottom line, don’t miss more than six (6) classes; that’s missing 3 weeks of
         - [“Resilience” by Jeremy Keith](https://vimeo.com/166140718) `video`
         - [Ebb & Flow](lessons/01-ebb-and-flow.md) overview
     - Homework
+        - [Get books](#books)
+        - Find 3 examples of sites you like, and why
+
+
+#### 01/24 Wednesday
+
+- Lecture
+    - Getting to Know Markdown and GitHub for Publishing on the Web
+    - Work on Ebb & Flow
+    - Homework
         - [Content First](lessons/01-ebb-and-flow.md#work--rubric): Read, write, and illustrate
 
-#### 09/05 Tuesday
-
-- Work from home day
-    - 7–8 p.m.
-        - Lecture via Google Hangouts
-            - Getting to Know Markdown and GitHub for Publishing on the Web
-    - 8–9 p.m.
-        - Individual check-in and work session via Slack
-    - Homework
-        - “HTML5 for Web Designers”
-            - Read: Chapters 1, 2, and 5
-
-#### 09/07 Thursday
+#### 01/29 Monday
 
 - Review
     - Writing Markdown
@@ -137,21 +135,23 @@ Bottom line, don’t miss more than six (6) classes; that’s missing 3 weeks of
       - Publish via GitHub
       - [Validate HTML](https://validator.w3.org)
 - Homework
+    - “HTML5 for Web Designers”
+        - Read: Chapters 1, 2, and 5
     - Revise summary based on guidelines
         - [Steps to Writing a Summary](http://www.mrshatzi.com/files/summary.pdf) (See page 2 for summary guidelines.)
     - Write “About the Author” text
     - Update repo `README.md` to include: summary outline, draft, revision, etc.
-    - “Responsive Web Design”
-        - Read: Forward, Introduction, and Chapter 1
 
-#### 09/12 Tuesday
+#### 01/31 Wednesday
 
 - Lecture
-  - Markdown to HTML Workflow Using BBEdit
+    - Markdown to HTML Workflow Using BBEdit
 - Homework
+    - “Responsive Web Design”
+        - Read: Forward, Introduction, and Chapter 1
     - Read: [The `i`, `b`, `em,` & `strong` Elements](http://html5doctor.com/i-b-em-strong-element/)
 
-#### 09/14 Thursday
+#### 02/05 Monday
 
 - Lecture
     - HTML Document Flow and the CSS Box Model
@@ -161,24 +161,24 @@ Bottom line, don’t miss more than six (6) classes; that’s missing 3 weeks of
   - Read: [Chapter 2: HTML Basics](http://marksheet.io/html-basics.html)
   - Read: [Chapter 4: CSS Basics](http://marksheet.io/css-basics.html)
 
-#### 09/19 Tuesday
+#### 02/07 Wednesday
 
 - Homework
   - Read: [CSS Box Model Properties](http://cssreference.io/box-model/)
   - Read: [CSS Typography Properties](http://cssreference.io/typography/)
 
-#### 09/21 Thursday
+#### 02/12 Monday
 
 - Lecture
   - CSS Box Model and Typography Properties
 
-#### 09/26 Tuesday
+#### 02/14 Wednesday
 
 - Lecture
   - Print Styles and Media Queries
   - HTML Document Outline
 
-#### 09/28 Thursday
+#### 02/21 Wednesday
 
 - Ebb & Flow — clean-up and wrap-up
   - See "[Work & Rubric](lessons/01-ebb-and-flow.md/#work--rubric)" for details
@@ -197,7 +197,7 @@ Bottom line, don’t miss more than six (6) classes; that’s missing 3 weeks of
 
 ### Content First
 
-#### 10/03 Tuesday
+#### 02/26 Monday
 
 - Ebb & Flow
   - Odds and ends
@@ -214,7 +214,7 @@ Bottom line, don’t miss more than six (6) classes; that’s missing 3 weeks of
     - Print, cut-and-paste, photocopy (25–400% [for scale changes]), etc. and layout actual type (headings, paragraphs, numbers, etc.) set in your web safe font on paper
       - For color use colored markers or colored paper (Color-aid or construction)
 
-#### 10/05 Thursday
+#### 02/28 Wednesday
 
 - Ebb & Flow
   - Final review (round 2)
@@ -231,17 +231,17 @@ Bottom line, don’t miss more than six (6) classes; that’s missing 3 weeks of
   - “Responsive Web Design”
       - Read: Chapter 2 — The Flexible Grid
 
-#### 10/10 Tuesday
+#### 03/05 Monday
 
-#### 10/12 Thursday
+#### 03/07 Wednesday
 
-#### 10/17 Tuesday
+#### 03/19 Monday
 
 - Work in progress review
 
-#### 10/19 Thursday
+#### 03/21 Wednesday
 
-#### 10/24 Tuesday
+#### 03/26 Monday
 
 - Content First
   - Final review (round 1)
@@ -250,50 +250,42 @@ Bottom line, don’t miss more than six (6) classes; that’s missing 3 weeks of
 
 ### Device Agnostic
 
-#### 10/26 Thursday
+#### 03/28 Wednesday
 
 - Content First
   - Final review (round 2)
 - Device Agnostic
   - Kickoff meeting
 
-#### ~~10/31 Tuesday~~
+#### 04/02 Monday
 
-- Advising Day; no class
-
-#### 11/02 Thursday
-
-#### 11/07 Tuesday
+#### 04/04 Wednesday
 
 - Work in progress review
 
-#### 11/09 Thursday
+#### 04/09 Monday
 
-#### 11/14 Tuesday
+#### 04/11 Wednesday
 
-#### 11/16 Thursday
+#### 04/18 Wednesday
 
 - - -
 
 ### Single Serving
 
-#### 11/21 Tuesday
+#### 04/23 Monday
 
 - Kickoff meeting
 
-#### ~~11/23 Thursday~~
+#### 04/25 Wednesday
 
-- Thanksgiving; no class
-
-#### 11/28 Tuesday
+#### 04/30 Monday
 
 - Work in progress review
 
-#### 11/30 Thursday
+#### 05/02 Wednesday
 
-#### 12/05 Tuesday
-
-#### 12/07 Thursday
+#### 05/07 Monday
 
 - Final review
 
@@ -301,7 +293,7 @@ Bottom line, don’t miss more than six (6) classes; that’s missing 3 weeks of
 
 ### Final
 
-#### 12/12 Tuesday
+#### 05/09 Wednesday
 
 - Last day of class
     - Final and all projects published via GitHub by the end of class
@@ -340,7 +332,7 @@ Pick a *free* flavor…
 
 ## Author
 
-A course developed by Justin Gagne.
+A course developed by Justin Gagne. Updated as needed by Ashley Hill.
 
 ## License
 
