@@ -124,7 +124,7 @@ Bottom line, don’t miss more than six (6) classes; that’s missing 3 weeks of
     - Writing Markdown
     - Setting Up a Repo on GitHub
 - Handouts
-    - Markdown Syntax (pocket reference from [Github Education Community](https://education.github.community))
+    - Markdown Syntax (pocket reference from [Github Education Community](https://education.github.community) [and here](https://enterprise.github.com/downloads/en/markdown-cheatsheet.pdf))
     - [HTML5 Element Index](http://html5doctor.com/#glossary) [`pdf`](./handouts/html5doctor-element-index.pdf)
 - Lecture
     - Best Practices for Naming Things
