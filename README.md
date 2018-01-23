@@ -4,7 +4,6 @@
 
 - [Syllabus](https://github.com/ashleyidesign/web-authoring-1-sp-18) (on GitHub)
 - [Slack](https://webauthoring2018.slack.com) — Where Work Happens™
-- **[Click here to join](https://join.slack.com/t/webauthoring2018/shared_invite/enQtMzAwNTkxNDk3MTA0LWY2ZjljODJiNDllMDUyMTE1YjQ4ZGY1ZmIyMGVmNzk1ZmE5MzMxN2ZhNjk2OTdiMzUzNGI4MzMyOGRmZWM2MDA)**
 - Monday & Wednesday, 6:30–9:10 p.m., H-305
 - Instructor: Ashley Hill
 - Email: `ashley.hill@montserrat.edu`
