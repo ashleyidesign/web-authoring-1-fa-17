@@ -38,9 +38,9 @@ If you look at the source code for other websites, you'll see different versions
 
 The most basic structure for a website:
 
-Line 1: Doctype
-Line 2: start head tag
-Line 3 - ?: page info like meta tags and the page title
+- Line 1: Doctype
+- Line 2: start head tag
+- Line 3 - ?: page info like meta tags and the page title
 
 Followed by links to CSS files, Javascript files and page-specific styling and a close head tag.
 
