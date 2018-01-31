@@ -50,11 +50,13 @@ After `</head>` is `<body>` which contains all of the HTML you want the browser 
 
 While most of the `<head>` is invisible when you look at a page, the one tag that will show somewhere is `<title>`. This is the name of the page in the browser tab. For example on the school's homepage, the title is `<title>Montserrat College Of Art | Beverly, Massachusetts, MA</title>` and if you [go look at the page in your browser](https://www.montserrat.edu/) you'll see that name in the tab. The title also shows up when you do a [search](https://www.google.com/search?q=montserat+college&rlz=1C1CHBF_enUS735US735&oq=montserat+college&aqs=chrome..69i57j0l5.2219j0j1&sourceid=chrome&ie=UTF-8).
     
-Other visible content that gets rendered is anything within `<body' `</body', which is where the rest of your HTML and content goes.
+Other visible content that gets rendered is anything within `<body>` `</body>`, which is where the rest of your HTML and content goes.
 
 ## Uploading to Github
 
-The easiest way to upload files to Github is drag-and-drop from your computer. If you navigate to your respository and drag a folder to anywhere on the screen, it will upload to the respository. You will first be asked to fill out a section called *Commit changes*. This is the changelog for your files, and will help you keep track of what was changed, so in case you need to go back to a previous version, you know what was changed when. Select **Commit directly to the 'master' branch** and click the green button.
+The easiest way to upload files to Github is drag-and-drop from your computer. If you navigate to your respository and drag a folder to anywhere on the screen, it will upload to the respository. 
+
+You will first be asked to fill out a section called *Commit changes*. This is the changelog for your files, and will help you keep track of what was changed, so in case you need to go back to a previous version, you know what was changed when. Select **Commit directly to the 'master' branch** and click the green button.
 
 ## HTML Validation
 
