@@ -1,9 +1,3 @@
-@channel
-
-Hi all, no class today as I'm still unwell.
-
-Instead you get a write-up of my lecture and some things to do before Monday. Here's what we would have talked about, and I'll review next week.
-
 # File Naming Best Practices
 
 Folder names and names of files you create, like .md, .html, .img etc, should always use lowercase letters and no spaces. Instead of spaces, you should be using _ or -. 
